@@ -33,6 +33,233 @@
     </item>
     
     <item>
+      <title>Optimization of preoperative lymph node staging in patients with muscle-invasive bladder cancer using radiomics on computed tomography</title>
+      <link>https://MStarmans91.github.io/publication/starmans-cirguidance-unpublished/</link>
+      <pubDate>Thu, 24 Feb 2022 13:11:31 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/starmans-cirguidance-unpublished/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic quantification of complex regional pain syndrome using radiomics and deep learning based on thermography images</title>
+      <link>https://MStarmans91.github.io/publication/bijl-crps-unpublished/</link>
+      <pubDate>Thu, 24 Feb 2022 13:11:30 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/bijl-crps-unpublished/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated differentiation of malignant and benign primary solid liver lesions on MRI: an externally validated radiomics model</title>
+      <link>https://MStarmans91.github.io/publication/starmans-bl-tmedrxiv/</link>
+      <pubDate>Thu, 24 Feb 2022 13:11:29 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/starmans-bl-tmedrxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classification of Clinically Significant Prostate Cancer on Multi-Parametric MRI: A Validation Study Comparing Deep Learning and Radiomics</title>
+      <link>https://MStarmans91.github.io/publication/castillot-2022-cancers/</link>
+      <pubDate>Thu, 24 Feb 2022 13:11:27 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/castillot-2022-cancers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Versus Automated Detection of Enlarged Perivascular Spaces and their Mimics</title>
+      <link>https://MStarmans91.github.io/publication/dubostunpublished/</link>
+      <pubDate>Thu, 24 Feb 2022 13:11:27 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/dubostunpublished/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AutoML For Deep Learning</title>
+      <link>https://MStarmans91.github.io/project/pareto/</link>
+      <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/project/pareto/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Background&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In recent years, a wide variety of deep learning methods for the classification of medical images have been proposed. On a new application, determining which method works best is tedious, challenging, and optimization generally leads to overfitting. Moreover, especially in rare diseases, the datasets are often simply too small for extensive optimization. Lastly, optimization is currently mostly done on the validation performance, while our goal is actually good generalization.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Aim&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The aim of this project is to overcome the limits of optimization through two complementary approaches. First, we propose to learn from previous problems which solutions worked best instead of starting from scratch through meta-learning. Second, instead of optimizing for validation performance, we will create an ensemble of complementary solutions using Pareto front multi-objective optimization. To this end, we have collected twelve  datasets of in total 2.500 patients on twelve different clinical applications (e.g. sarcoma, liver, prostate, brain, head and neck, neuroendocrine tumors) on which we previously successfully created individual classification models. Note that this project is quite technical and challenging.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Related research:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/1599245&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://ieeexplore.ieee.org/abstract/document/1599245&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/2004.05439&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2004.05439&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Supervisors&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Martijn Starmans&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.erasmusmc.nl/en/research/researchers/klein-stefan&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stefan Klein&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;Feel free to mail me if you are interested in this project or want more information!&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Colorectal Liver Metastases Chemotherapy Prediction</title>
+      <link>https://MStarmans91.github.io/project/hgp/</link>
+      <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/project/hgp/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Background&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The prognosis of colorectal liver metastases is highly influenced by the so-called histopathological growth pattern (HGP), i.e. the interaction between the liver and tumor tissue. Patients with more aggressive growth patterns have a far worse prognosis and may benefit from preoperative neo-adjuvant chemotherapy. Unfortunately, the HGP can currently only be determined based on surgery and thus post-operatively. Our clinicians are therefore looking for a pre-operative alternative.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Aim&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The aim of this project is therefore to preoperatively predict the HGP based on computed tomography images using a combination of radiomics and deep learning. Previously, we have already distinguished pure HGPs (100% of one type) (see first paper below). Hence, using those methods, you should be able to quickly set a baseline for mixed HGPs using an already acquired and segmented multicenter database of 400 patients and an external validation set of about 200 patients we also acquired. However, we expect that this mixture is much more difficult to predict, and further technical advancements (e.g. multitask regression, combined detection and classification) are required, which will be your main task.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Related research:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.1016/j.semcancer.2020.07.002&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1016/j.semcancer.2020.07.002&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.1245/s10434-019-07910-x&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1245/s10434-019-07910-x&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.1016/B978-0-12-816176-0.00023-5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1016/B978-0-12-816176-0.00023-5&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.1002/bjs.11410&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1002/bjs.11410&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Supervisors&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Martijn Starmans&lt;/li&gt;
+&lt;li&gt;Boris Galjart (Department of Surgery)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.erasmusmc.nl/en/research/researchers/klein-stefan&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stefan Klein&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;Feel free to mail me if you are interested in this project or want more information!&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lymph Node Staging</title>
+      <link>https://MStarmans91.github.io/project/lymphnode/</link>
+      <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/project/lymphnode/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Background&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;At present, clinical staging of lymph nodes (LN) in patients with muscle-invasive bladder cancer (MIBC) is usually performed on computed tomography (CT). In approximately 25% of the patients with MIBC and non-malignant locoregional small LNs prior to surgery, occult LN metastases are detected after radical cystectomy (RC) and pelvic LN dissection. Hence, there is an urgent clinical need to improve preoperative LN staging to better identify patients who may benefit from neoadjuvant chemotherapy (NAC).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Aim&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The aim of this project is to evaluate the diagnostic accuracy of pre-operative CT-based radiomics and deep learning to differentiate between pN+ and pN0 patients with MIBC. A multicenter dataset of about 250 patients has already been acquired, and all LNs have been segmented. The main challenge is that patients usually have a lot of LNs (mean: 44), but in the pN+ patients, only a handful are actually metastases, and we don’t know which, only how many. A naive radiomics approach has already been tested and did not yield positive results. We therefore propose to use a novel CNN strategy, in which we process each LN separately, combine them per patient in one loss, and trace the predictions back to the individual LNs to identify the metastases. Your goal will be to design and implement such a strategy. The resulting model could be used both for LN staging, and additionally to identify the metastases to guide treatment planning.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Related research:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://stichtingduos.nl/cirguidance/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://stichtingduos.nl/cirguidance/&lt;/a&gt; (study from which the data originates)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.1158/1078-0432.CCR-17-1510&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1158/1078-0432.CCR-17-1510&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Supervisors&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Martijn Starmans&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.erasmusmc.nl/nl-nl/kankerinstituut/patientenzorg/zorgverleners/veldt-astrid-van-der&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Astrid van der Veldt&lt;/a&gt; (Department of Oncology)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.erasmusmc.nl/en/research/researchers/klein-stefan&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stefan Klein&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;Feel free to mail me if you are interested in this project or want more information!&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scribble Segmentation</title>
+      <link>https://MStarmans91.github.io/project/scribble/</link>
+      <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/project/scribble/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Background&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Soft tissue tumors (STT) are a rare and complex group of tumors with over 100 different STT subtypes. A first step in any STT study is the segmentation, hence our radiologists are very eager for such a solution. Moreover, we previously successfully created STT classification models, which depend currently on manual segmentations. Automatic segmentation is however challenging due the STT rarity and their heterogeneity. Moreover, STT can invade other organs and occur anywhere in the body, making it difficult for deep learning to detect them.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Aim&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The aim of this project is to create a deep learning model for the segmentation of STT by keeping the radiologist in the loop. To this end, we will make use of user-provided scribbles, i.e. rough indications of the tumor outlines, which will serve as input for the network. Additionally, the output of the network can be refined by again requesting a scribble from the clinician. You will start with a literature search on how to optimally make use of scribbles in this context. Using this pragmatic approach, with limited input from the clinician, we can provide automatic annotations for all kinds of STT. Moreover, we hope to extend this approach to brain tumors, where often refinements from the clinicians are also required.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Related research:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.1109/TMI.2018.2791721&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1109/TMI.2018.2791721&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/2007.01152&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2007.01152&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.1002/bjs.11410&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1002/bjs.11410&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.1016/j.ejrad.2020.109266&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1016/j.ejrad.2020.109266&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Supervisors&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Douwe Spaanderman (PhD student)&lt;/li&gt;
+&lt;li&gt;Martijn Starmans&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.erasmusmc.nl/en/research/researchers/klein-stefan&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stefan Klein&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;Feel free to mail me if you are interested in this project or want more information!&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Streamlined Quantitative Imaging Biomarker Development</title>
+      <link>https://MStarmans91.github.io/publication/starmans-thesis/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/starmans-thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differential diagnosis and molecular stratification of gastrointestinal stromal tumors on CT images using a radiomics approach</title>
+      <link>https://MStarmans91.github.io/publication/starmans-2022-gist/</link>
+      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/starmans-2022-gist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reproducible radiomics through automated machine learning validated on twelve clinical applications</title>
+      <link>https://MStarmans91.github.io/publication/starmans-worc-unpublished/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/starmans-worc-unpublished/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting symptomatic mesenteric mass in small intestinal neuroendocrine tumors using radiomics</title>
+      <link>https://MStarmans91.github.io/publication/blazevicstarmans-2021/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/blazevicstarmans-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reproducible radiomics through automated machine learning validated on twelve clinical applications</title>
+      <link>https://MStarmans91.github.io/conferences/starmans-euro-bio-imaging-2021/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/starmans-euro-bio-imaging-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The BRAF P.V600E Mutation Status of Melanoma Lung Metastases Cannot Be Discriminated on Computed Tomography by LIDC Criteria nor Radiomics Using Machine Learning</title>
+      <link>https://MStarmans91.github.io/publication/angusstarmans-2021/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/angusstarmans-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effect of preprocessing on convolutional neurnal networks for medical image segmentation</title>
+      <link>https://MStarmans91.github.io/publication/deraad-2021-preprocessing/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/deraad-2021-preprocessing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multicentre studies for more robust radiomics signatures</title>
+      <link>https://MStarmans91.github.io/conferences/starmans-ecr-2021/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/starmans-ecr-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Multi-Center, Multi-Vendor Study to Evaluate the Generalizability of a Radiomics Model for Classifying Prostate cancer: High Grade vs. Low Grade</title>
+      <link>https://MStarmans91.github.io/publication/castillo-2021-diagnostics/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/castillo-2021-diagnostics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distinguishing pure histopathological growth patterns of colorectal liver metastases on CT using deep learning and radiomics: a pilot study</title>
+      <link>https://MStarmans91.github.io/publication/starmans-2021-crlm/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/starmans-2021-crlm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The WORC* database: MRI and CT scans, segmentations, and clinical labels for 930 patients from six radiomics studies</title>
+      <link>https://MStarmans91.github.io/publication/starmans-worc-dataset-unpublished/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/starmans-worc-dataset-unpublished/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
       <link>https://MStarmans91.github.io/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
@@ -107,6 +334,166 @@
 &lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>FAIR-compliant clinical, radiomics and DICOM metadata of RIDER, interobserver, Lung1 and head-Neck1 TCIA collections</title>
+      <link>https://MStarmans91.github.io/publication/kalendralis-2020-fair/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/kalendralis-2020-fair/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differential diagnosis and mutation stratification of desmoid-type fibromatosis on MRI using radiomics</title>
+      <link>https://MStarmans91.github.io/publication/timbergen-2020-radiomicsdesmoid/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/timbergen-2020-radiomicsdesmoid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multicentre studies for more robust radiomics signatures</title>
+      <link>https://MStarmans91.github.io/conferences/starmans-ecr-2020/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/starmans-ecr-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differential diagnosis and mutation stratification of gastrointestinal stromal tumours on CT images using a radiomics approach</title>
+      <link>https://MStarmans91.github.io/conferences/starmans-2020-gistecr/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/starmans-2020-gistecr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distinguishing desmoid-type fibromatosis from soft tissue sarcoma on MRI using a radiomics approach</title>
+      <link>https://MStarmans91.github.io/conferences/starmans-2020-desmoidecr/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/starmans-2020-desmoidecr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distinguishing well-differentiated liposarcomas from lipomas on MR images using a radiomics approach</title>
+      <link>https://MStarmans91.github.io/conferences/starmans-2020-distinguishing/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/starmans-2020-distinguishing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prediction of histopathological growth patterns by radiomics and CT-imaging in patients with operable colorectal liver metastases: a proof-of-concept study</title>
+      <link>https://MStarmans91.github.io/conferences/starmans-2020-histopathological/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/starmans-2020-histopathological/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radiomics model to predict hepatocellular carcinoma on liver MRI of high-risk patients in surveillance: a proof-of-concept study</title>
+      <link>https://MStarmans91.github.io/conferences/starmans-2020-hccams-ecr/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/starmans-2020-hccams-ecr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radiomics of Gastrointestinal Stromal Tumors; Risk Classification Based on Computed Tomography Images – A Pilot Study</title>
+      <link>https://MStarmans91.github.io/conferences/timbergen-2019-gist-2/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/timbergen-2019-gist-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fully automatic construction of optimal radiomics workflows</title>
+      <link>https://MStarmans91.github.io/conferences/starmans-2020-healthri/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/starmans-2020-healthri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prediction of Symptomatic Mesenteric Mass in Patients with Small Intestinal Neuroendocrine Tumors Using a CT Radiomics Approach</title>
+      <link>https://MStarmans91.github.io/conferences/blazevic-2020-neuro/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/blazevic-2020-neuro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radiomics: Data mining using quantitative medical image features</title>
+      <link>https://MStarmans91.github.io/publication/starmans-2020-radiomics/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/starmans-2020-radiomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting the 1p/19q Codeletion Status of Presumed Low-Grade Glioma with an Externally Validated Machine Learning Algorithm</title>
+      <link>https://MStarmans91.github.io/publication/vandervoort-2019-ccr/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/vandervoort-2019-ccr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radiomics approach to distinguish between well differentiated liposarcomas and lipomas on MRI</title>
+      <link>https://MStarmans91.github.io/publication/vos-2019-radiomicslipoma/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/vos-2019-radiomicslipoma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differentiating well-differentiated liposarcomas from lipomas using a radiomics approach</title>
+      <link>https://MStarmans91.github.io/conferences/vos-2019-differentiating/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/vos-2019-differentiating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radiomics of gastrointestinal stromal tumours, risk classification based on computed tomography images: A pilot study</title>
+      <link>https://MStarmans91.github.io/conferences/timbergen-2019-gist-1/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/timbergen-2019-gist-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Are quality assurance phantoms useful to assess radiomics reproducibility? A multi-center study</title>
+      <link>https://MStarmans91.github.io/conferences/traverso-2019/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/traverso-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classification Of Prostate Cancer: High Grade Versus Low Grade Using A Radiomics Approach</title>
+      <link>https://MStarmans91.github.io/publication/castillo-2019-isbi/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/castillo-2019-isbi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multicenter CT phantoms public dataset for radiomics reproducibility studies</title>
+      <link>https://MStarmans91.github.io/conferences/kalendralis-estro-2019/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/kalendralis-estro-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multicenter CT phantoms public dataset for radiomics reproducibility tests</title>
+      <link>https://MStarmans91.github.io/publication/kalendralisstarmans-2019/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/kalendralisstarmans-2019/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -239,35 +626,99 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>Example Project</title>
-      <link>https://MStarmans91.github.io/project/example/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://MStarmans91.github.io/project/example/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
+      <title>Classification of malignant and benign liver tumours using a radiomics approach</title>
+      <link>https://MStarmans91.github.io/conferences/starmans-2019-classification/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/starmans-2019-classification/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>An example conference paper</title>
-      <link>https://MStarmans91.github.io/publication/example/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://MStarmans91.github.io/publication/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Fully automatic construction of optimal radiomics workflows</title>
+      <link>https://MStarmans91.github.io/conferences/starmans-2019-worcecr/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/starmans-2019-worcecr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mutation stratification of desmoid-type fibromatosis using a radiogenomics approach</title>
+      <link>https://MStarmans91.github.io/conferences/timbergen-2019-desmoid/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/timbergen-2019-desmoid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prediction of surgery requirement in mesenteric fibrosis on CT using a radiomics approach</title>
+      <link>https://MStarmans91.github.io/conferences/starmans-2019-mesfibecr/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/starmans-2019-mesfibecr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fully automatic construction of optimal radiomics workflows</title>
+      <link>https://MStarmans91.github.io/conferences/starmans-bme-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/starmans-bme-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radiomics features for use in dementia diagnosis</title>
+      <link>https://MStarmans91.github.io/conferences/theodoridis-2019-esmrmb/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/theodoridis-2019-esmrmb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classification of malignant and benign liver tumors using a radiomics approach</title>
+      <link>https://MStarmans91.github.io/publication/starmans-2018-livertumor/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/starmans-2018-livertumor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Harmonizing radiomics among applications through adaptive workflow optimization</title>
+      <link>https://MStarmans91.github.io/conferences/starmans-worc-eu-so-mii/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/starmans-worc-eu-so-mii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mutation stratification of desmoid-type fibromatosis using a radiomics approach – preliminary results</title>
+      <link>https://MStarmans91.github.io/conferences/timbergen-2018-dtrf/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/timbergen-2018-dtrf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Radiomics Approach for Colorectal Liver Metastases Survival Prediction</title>
+      <link>https://MStarmans91.github.io/conferences/starmans-miccai-2017/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/starmans-miccai-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radiomics and liver tumors</title>
+      <link>https://MStarmans91.github.io/conferences/starmansliver-2017/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/starmansliver-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prediction of histopathological growth patterns in colorectal liver metastases using a Radiomics approach</title>
+      <link>https://MStarmans91.github.io/conferences/starmans-2017-nvphbv/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/starmans-2017-nvphbv/</guid>
+      <description></description>
     </item>
     
     <item>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | Martijn P.A. Starmans, PhD - Radiomics and AutoML</title>
+    <link>https://MStarmans91.github.io/publication-type/3/</link>
+      <atom:link href="https://MStarmans91.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 24 Feb 2022 13:11:31 +0000</lastBuildDate>
+    <image>
+      <url>https://MStarmans91.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>3</title>
+      <link>https://MStarmans91.github.io/publication-type/3/</link>
+    </image>
+    
+    <item>
+      <title>Optimization of preoperative lymph node staging in patients with muscle-invasive bladder cancer using radiomics on computed tomography</title>
+      <link>https://MStarmans91.github.io/publication/starmans-cirguidance-unpublished/</link>
+      <pubDate>Thu, 24 Feb 2022 13:11:31 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/starmans-cirguidance-unpublished/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic quantification of complex regional pain syndrome using radiomics and deep learning based on thermography images</title>
+      <link>https://MStarmans91.github.io/publication/bijl-crps-unpublished/</link>
+      <pubDate>Thu, 24 Feb 2022 13:11:30 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/bijl-crps-unpublished/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated differentiation of malignant and benign primary solid liver lesions on MRI: an externally validated radiomics model</title>
+      <link>https://MStarmans91.github.io/publication/starmans-bl-tmedrxiv/</link>
+      <pubDate>Thu, 24 Feb 2022 13:11:29 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/starmans-bl-tmedrxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Versus Automated Detection of Enlarged Perivascular Spaces and their Mimics</title>
+      <link>https://MStarmans91.github.io/publication/dubostunpublished/</link>
+      <pubDate>Thu, 24 Feb 2022 13:11:27 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/dubostunpublished/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reproducible radiomics through automated machine learning validated on twelve clinical applications</title>
+      <link>https://MStarmans91.github.io/publication/starmans-worc-unpublished/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/starmans-worc-unpublished/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The WORC* database: MRI and CT scans, segmentations, and clinical labels for 930 patients from six radiomics studies</title>
+      <link>https://MStarmans91.github.io/publication/starmans-worc-dataset-unpublished/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/starmans-worc-dataset-unpublished/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

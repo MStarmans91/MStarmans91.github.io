@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conferences | Martijn P.A. Starmans, PhD - Radiomics and AutoML</title>
+    <link>https://MStarmans91.github.io/conferences/</link>
+      <atom:link href="https://MStarmans91.github.io/conferences/index.xml" rel="self" type="application/rss+xml" />
+    <description>Conferences</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://MStarmans91.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Conferences</title>
+      <link>https://MStarmans91.github.io/conferences/</link>
+    </image>
+    
+    <item>
+      <title>Reproducible radiomics through automated machine learning validated on twelve clinical applications</title>
+      <link>https://MStarmans91.github.io/conferences/starmans-euro-bio-imaging-2021/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/starmans-euro-bio-imaging-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multicentre studies for more robust radiomics signatures</title>
+      <link>https://MStarmans91.github.io/conferences/starmans-ecr-2021/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/starmans-ecr-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multicentre studies for more robust radiomics signatures</title>
+      <link>https://MStarmans91.github.io/conferences/starmans-ecr-2020/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/starmans-ecr-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differential diagnosis and mutation stratification of gastrointestinal stromal tumours on CT images using a radiomics approach</title>
+      <link>https://MStarmans91.github.io/conferences/starmans-2020-gistecr/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/starmans-2020-gistecr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distinguishing desmoid-type fibromatosis from soft tissue sarcoma on MRI using a radiomics approach</title>
+      <link>https://MStarmans91.github.io/conferences/starmans-2020-desmoidecr/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/starmans-2020-desmoidecr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distinguishing well-differentiated liposarcomas from lipomas on MR images using a radiomics approach</title>
+      <link>https://MStarmans91.github.io/conferences/starmans-2020-distinguishing/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/starmans-2020-distinguishing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prediction of histopathological growth patterns by radiomics and CT-imaging in patients with operable colorectal liver metastases: a proof-of-concept study</title>
+      <link>https://MStarmans91.github.io/conferences/starmans-2020-histopathological/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/starmans-2020-histopathological/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radiomics model to predict hepatocellular carcinoma on liver MRI of high-risk patients in surveillance: a proof-of-concept study</title>
+      <link>https://MStarmans91.github.io/conferences/starmans-2020-hccams-ecr/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/starmans-2020-hccams-ecr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radiomics of Gastrointestinal Stromal Tumors; Risk Classification Based on Computed Tomography Images – A Pilot Study</title>
+      <link>https://MStarmans91.github.io/conferences/timbergen-2019-gist-2/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/timbergen-2019-gist-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fully automatic construction of optimal radiomics workflows</title>
+      <link>https://MStarmans91.github.io/conferences/starmans-2020-healthri/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/starmans-2020-healthri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prediction of Symptomatic Mesenteric Mass in Patients with Small Intestinal Neuroendocrine Tumors Using a CT Radiomics Approach</title>
+      <link>https://MStarmans91.github.io/conferences/blazevic-2020-neuro/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/blazevic-2020-neuro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differentiating well-differentiated liposarcomas from lipomas using a radiomics approach</title>
+      <link>https://MStarmans91.github.io/conferences/vos-2019-differentiating/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/vos-2019-differentiating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radiomics of gastrointestinal stromal tumours, risk classification based on computed tomography images: A pilot study</title>
+      <link>https://MStarmans91.github.io/conferences/timbergen-2019-gist-1/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/timbergen-2019-gist-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Are quality assurance phantoms useful to assess radiomics reproducibility? A multi-center study</title>
+      <link>https://MStarmans91.github.io/conferences/traverso-2019/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/traverso-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multicenter CT phantoms public dataset for radiomics reproducibility studies</title>
+      <link>https://MStarmans91.github.io/conferences/kalendralis-estro-2019/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/kalendralis-estro-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classification of malignant and benign liver tumours using a radiomics approach</title>
+      <link>https://MStarmans91.github.io/conferences/starmans-2019-classification/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/starmans-2019-classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fully automatic construction of optimal radiomics workflows</title>
+      <link>https://MStarmans91.github.io/conferences/starmans-2019-worcecr/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/starmans-2019-worcecr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mutation stratification of desmoid-type fibromatosis using a radiogenomics approach</title>
+      <link>https://MStarmans91.github.io/conferences/timbergen-2019-desmoid/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/timbergen-2019-desmoid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prediction of surgery requirement in mesenteric fibrosis on CT using a radiomics approach</title>
+      <link>https://MStarmans91.github.io/conferences/starmans-2019-mesfibecr/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/starmans-2019-mesfibecr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fully automatic construction of optimal radiomics workflows</title>
+      <link>https://MStarmans91.github.io/conferences/starmans-bme-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/starmans-bme-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radiomics features for use in dementia diagnosis</title>
+      <link>https://MStarmans91.github.io/conferences/theodoridis-2019-esmrmb/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/theodoridis-2019-esmrmb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Harmonizing radiomics among applications through adaptive workflow optimization</title>
+      <link>https://MStarmans91.github.io/conferences/starmans-worc-eu-so-mii/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/starmans-worc-eu-so-mii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mutation stratification of desmoid-type fibromatosis using a radiomics approach – preliminary results</title>
+      <link>https://MStarmans91.github.io/conferences/timbergen-2018-dtrf/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/timbergen-2018-dtrf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Radiomics Approach for Colorectal Liver Metastases Survival Prediction</title>
+      <link>https://MStarmans91.github.io/conferences/starmans-miccai-2017/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/starmans-miccai-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radiomics and liver tumors</title>
+      <link>https://MStarmans91.github.io/conferences/starmansliver-2017/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/starmansliver-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prediction of histopathological growth patterns in colorectal liver metastases using a Radiomics approach</title>
+      <link>https://MStarmans91.github.io/conferences/starmans-2017-nvphbv/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/starmans-2017-nvphbv/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

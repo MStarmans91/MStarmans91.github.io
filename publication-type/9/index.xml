@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>9 | Martijn P.A. Starmans, PhD - Radiomics and AutoML</title>
+    <link>https://MStarmans91.github.io/publication-type/9/</link>
+      <atom:link href="https://MStarmans91.github.io/publication-type/9/index.xml" rel="self" type="application/rss+xml" />
+    <description>9</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://MStarmans91.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>9</title>
+      <link>https://MStarmans91.github.io/publication-type/9/</link>
+    </image>
+    
+    <item>
+      <title>Prediction of Symptomatic Mesenteric Mass in Patients with Small Intestinal Neuroendocrine Tumors Using a CT Radiomics Approach</title>
+      <link>https://MStarmans91.github.io/conferences/blazevic-2020-neuro/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/blazevic-2020-neuro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multicenter CT phantoms public dataset for radiomics reproducibility studies</title>
+      <link>https://MStarmans91.github.io/conferences/kalendralis-estro-2019/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/kalendralis-estro-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radiomics features for use in dementia diagnosis</title>
+      <link>https://MStarmans91.github.io/conferences/theodoridis-2019-esmrmb/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/theodoridis-2019-esmrmb/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

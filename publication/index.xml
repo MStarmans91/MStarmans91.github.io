@@ -5,7 +5,7 @@
     <link>https://MStarmans91.github.io/publication/</link>
       <atom:link href="https://MStarmans91.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 24 Feb 2022 13:11:31 +0000</lastBuildDate>
     <image>
       <url>https://MStarmans91.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -13,22 +13,179 @@
     </image>
     
     <item>
-      <title>An example conference paper</title>
-      <link>https://MStarmans91.github.io/publication/example/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://MStarmans91.github.io/publication/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Optimization of preoperative lymph node staging in patients with muscle-invasive bladder cancer using radiomics on computed tomography</title>
+      <link>https://MStarmans91.github.io/publication/starmans-cirguidance-unpublished/</link>
+      <pubDate>Thu, 24 Feb 2022 13:11:31 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/starmans-cirguidance-unpublished/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic quantification of complex regional pain syndrome using radiomics and deep learning based on thermography images</title>
+      <link>https://MStarmans91.github.io/publication/bijl-crps-unpublished/</link>
+      <pubDate>Thu, 24 Feb 2022 13:11:30 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/bijl-crps-unpublished/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated differentiation of malignant and benign primary solid liver lesions on MRI: an externally validated radiomics model</title>
+      <link>https://MStarmans91.github.io/publication/starmans-bl-tmedrxiv/</link>
+      <pubDate>Thu, 24 Feb 2022 13:11:29 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/starmans-bl-tmedrxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classification of Clinically Significant Prostate Cancer on Multi-Parametric MRI: A Validation Study Comparing Deep Learning and Radiomics</title>
+      <link>https://MStarmans91.github.io/publication/castillot-2022-cancers/</link>
+      <pubDate>Thu, 24 Feb 2022 13:11:27 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/castillot-2022-cancers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Versus Automated Detection of Enlarged Perivascular Spaces and their Mimics</title>
+      <link>https://MStarmans91.github.io/publication/dubostunpublished/</link>
+      <pubDate>Thu, 24 Feb 2022 13:11:27 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/dubostunpublished/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Streamlined Quantitative Imaging Biomarker Development</title>
+      <link>https://MStarmans91.github.io/publication/starmans-thesis/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/starmans-thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differential diagnosis and molecular stratification of gastrointestinal stromal tumors on CT images using a radiomics approach</title>
+      <link>https://MStarmans91.github.io/publication/starmans-2022-gist/</link>
+      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/starmans-2022-gist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reproducible radiomics through automated machine learning validated on twelve clinical applications</title>
+      <link>https://MStarmans91.github.io/publication/starmans-worc-unpublished/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/starmans-worc-unpublished/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting symptomatic mesenteric mass in small intestinal neuroendocrine tumors using radiomics</title>
+      <link>https://MStarmans91.github.io/publication/blazevicstarmans-2021/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/blazevicstarmans-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The BRAF P.V600E Mutation Status of Melanoma Lung Metastases Cannot Be Discriminated on Computed Tomography by LIDC Criteria nor Radiomics Using Machine Learning</title>
+      <link>https://MStarmans91.github.io/publication/angusstarmans-2021/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/angusstarmans-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effect of preprocessing on convolutional neurnal networks for medical image segmentation</title>
+      <link>https://MStarmans91.github.io/publication/deraad-2021-preprocessing/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/deraad-2021-preprocessing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Multi-Center, Multi-Vendor Study to Evaluate the Generalizability of a Radiomics Model for Classifying Prostate cancer: High Grade vs. Low Grade</title>
+      <link>https://MStarmans91.github.io/publication/castillo-2021-diagnostics/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/castillo-2021-diagnostics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distinguishing pure histopathological growth patterns of colorectal liver metastases on CT using deep learning and radiomics: a pilot study</title>
+      <link>https://MStarmans91.github.io/publication/starmans-2021-crlm/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/starmans-2021-crlm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The WORC* database: MRI and CT scans, segmentations, and clinical labels for 930 patients from six radiomics studies</title>
+      <link>https://MStarmans91.github.io/publication/starmans-worc-dataset-unpublished/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/starmans-worc-dataset-unpublished/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FAIR-compliant clinical, radiomics and DICOM metadata of RIDER, interobserver, Lung1 and head-Neck1 TCIA collections</title>
+      <link>https://MStarmans91.github.io/publication/kalendralis-2020-fair/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/kalendralis-2020-fair/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differential diagnosis and mutation stratification of desmoid-type fibromatosis on MRI using radiomics</title>
+      <link>https://MStarmans91.github.io/publication/timbergen-2020-radiomicsdesmoid/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/timbergen-2020-radiomicsdesmoid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radiomics: Data mining using quantitative medical image features</title>
+      <link>https://MStarmans91.github.io/publication/starmans-2020-radiomics/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/starmans-2020-radiomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting the 1p/19q Codeletion Status of Presumed Low-Grade Glioma with an Externally Validated Machine Learning Algorithm</title>
+      <link>https://MStarmans91.github.io/publication/vandervoort-2019-ccr/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/vandervoort-2019-ccr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radiomics approach to distinguish between well differentiated liposarcomas and lipomas on MRI</title>
+      <link>https://MStarmans91.github.io/publication/vos-2019-radiomicslipoma/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/vos-2019-radiomicslipoma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classification Of Prostate Cancer: High Grade Versus Low Grade Using A Radiomics Approach</title>
+      <link>https://MStarmans91.github.io/publication/castillo-2019-isbi/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/castillo-2019-isbi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multicenter CT phantoms public dataset for radiomics reproducibility tests</title>
+      <link>https://MStarmans91.github.io/publication/kalendralisstarmans-2019/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/kalendralisstarmans-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classification of malignant and benign liver tumors using a radiomics approach</title>
+      <link>https://MStarmans91.github.io/publication/starmans-2018-livertumor/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/starmans-2018-livertumor/</guid>
+      <description></description>
     </item>
     
   </channel>

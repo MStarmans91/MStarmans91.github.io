@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 | Martijn P.A. Starmans, PhD - Radiomics and AutoML</title>
+    <link>https://MStarmans91.github.io/publication-type/0/</link>
+      <atom:link href="https://MStarmans91.github.io/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
+    <description>0</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://MStarmans91.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>0</title>
+      <link>https://MStarmans91.github.io/publication-type/0/</link>
+    </image>
+    
+    <item>
+      <title>Reproducible radiomics through automated machine learning validated on twelve clinical applications</title>
+      <link>https://MStarmans91.github.io/conferences/starmans-euro-bio-imaging-2021/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/starmans-euro-bio-imaging-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multicentre studies for more robust radiomics signatures</title>
+      <link>https://MStarmans91.github.io/conferences/starmans-ecr-2021/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/starmans-ecr-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multicentre studies for more robust radiomics signatures</title>
+      <link>https://MStarmans91.github.io/conferences/starmans-ecr-2020/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/starmans-ecr-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mutation stratification of desmoid-type fibromatosis using a radiomics approach – preliminary results</title>
+      <link>https://MStarmans91.github.io/conferences/timbergen-2018-dtrf/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/timbergen-2018-dtrf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Radiomics Approach for Colorectal Liver Metastases Survival Prediction</title>
+      <link>https://MStarmans91.github.io/conferences/starmans-miccai-2017/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/starmans-miccai-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radiomics and liver tumors</title>
+      <link>https://MStarmans91.github.io/conferences/starmansliver-2017/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/starmansliver-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
