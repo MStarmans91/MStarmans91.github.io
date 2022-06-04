@@ -33,10 +33,94 @@
     </item>
     
     <item>
-      <title>Optimization of preoperative lymph node staging in patients with muscle-invasive bladder cancer using radiomics on computed tomography</title>
-      <link>https://MStarmans91.github.io/publication/starmans-cirguidance-unpublished/</link>
-      <pubDate>Thu, 24 Feb 2022 13:11:31 +0000</pubDate>
-      <guid>https://MStarmans91.github.io/publication/starmans-cirguidance-unpublished/</guid>
+      <title>A systematic review reporting quality of radiomics research in the diagnosis and prognosis of soft-tissue sarcoma</title>
+      <link>https://MStarmans91.github.io/project/systematic/</link>
+      <pubDate>Fri, 03 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/project/systematic/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Background&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Soft tissue tumors (STT) are a rare and complex group of tumors with a broad range of differentiation. All STT subtypes significantly differ in their clinical behavior, aggressiveness, molecular background, and preferred treatments given. In order to guide personalized medicine, identifying biomarkers for patient outcomes is essential. The use of features in radiology imaging (&lt;code&gt;radiomics&lt;/code&gt;) such as CT and MRI can be used to identify such biomarkers. These biomarkers have advantages as they can be retrieved from standard clinical practice, are non-invasive, and can be easily repeated to follow the patient in time.&lt;/p&gt;
+&lt;p&gt;In order to assess the quality of radiomics studies, Lambin et. al. (2017), have developed a quality measurement that evaluates radiomics studies methodology, of which a second version is almost ready. Currently, many applications for radiomics in the diagnosis and prognosis of STT have been devised. However, at this time, an overview and assessment of the radiomics studies on STT has yet to be conducted.&lt;/p&gt;
+&lt;p&gt;As we are also developing radiomics methods for STT, it is of high priority to create an in-depth overview of the clinical applications radiomics has been used for in STT. This can guide the field towards relevant clinical questions. Additionally, it is an opportunity to show the field what has already been achieved in recent years, and where the focus should be on.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Aim&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The aim of this research is to qualitatively and quantitatively score radiomics studies in soft-tissue sarcoma. Additionally, we would like to create an overview of all the clinical applications for which radiomics has been applied in STT and discuss possible clinical endpoints which should be investigated. Finally, for you, this will be an opportunity to get a (Co-)authorship of an impactful review for radiomics in soft-tissue sarcoma&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Related research:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.3322/caac.21605&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.3322/caac.21605&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.1038/nrclinonc.2017.141&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1038/nrclinonc.2017.141&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.48550/arXiv.2108.08618&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.48550/arXiv.2108.08618&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Supervisors&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Douwe Spaanderman (PhD Student)&lt;/li&gt;
+&lt;li&gt;Martijn Starmans&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.erasmusmc.nl/en/research/researchers/klein-stefan&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stefan Klein&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;Feel free to mail me if you are interested in this project or want more information!&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Computer-aided Diagnosis for Gastrointestinal Stromal Tumors on CT using Deep Learning</title>
+      <link>https://MStarmans91.github.io/project/gist/</link>
+      <pubDate>Fri, 03 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/project/gist/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Background&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Gastrointestinal Stromal Tumors (GIST) are a complex group of rare tumors with a broad range of differentiation. The subtypes of GIST differ in their clinical behavior, aggressiveness, molecular background, and preferred treatments given. In order to guide personalized medicine, identifying biomarkers for patient outcomes is essential. The use of features in radiology imaging (‘radiomics’) such as CT can be used to identify such biomarkers. These biomarkers have advantages as they can be retrieved from standard clinical practice, are non-invasive, and can be easily repeated to follow the patient in time. Currently, genetic biomarkers such as the KIT mutations are used to stratify patients at risk. We hypothesize that deep learning can detect these genetic biomarkers as well as novel biomarkers from imaging features.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Aim&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The aim of this research is to create a deep learning model identifying known biomarkers directly from CT scans, such as specific KIT mutations, as well as identifying novel imaging biomarkers which will let us directly infer patient survival and treatment response. In order to achieve this, we have already collected clinical and imaging data of 1400 GIST patients, in a multi-center setting.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Related research:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.1038/s41572-021-00254-5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1038/s41572-021-00254-5&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.1016/j.humpath.2008.06.025&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1016/j.humpath.2008.06.025&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.1007/s10278-022-00590-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1007/s10278-022-00590-2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Supervisors&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Douwe Spaanderman (PhD Student)&lt;/li&gt;
+&lt;li&gt;Martijn Starmans&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.erasmusmc.nl/en/research/researchers/klein-stefan&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stefan Klein&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;Feel free to mail me if you are interested in this project or want more information!&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Preoperatieve risicostratificatie voor long metastase bij weke delen tumor met behulp van een radiomics model</title>
+      <link>https://MStarmans91.github.io/project/sttlung/</link>
+      <pubDate>Fri, 03 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/project/sttlung/</guid>
+      <description>&lt;p&gt;Note: Unfortunately, only available to Dutch speakers, as you will have to work with Dutch patient data.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Achtergrond&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Weke delen tumoren omvatten een grote groep van verschillende fenotypes die op alle locaties van het lichaam kunnen optreden. Voor deze tumoren zijn de longen de meest voorkomende locatie van metastase, wat optreedt in 20% van alle maligne weke delen. Het voorkomen van metastase is essentieel omdat de overlevingskans van de patiënt sterk afneemt. Tevens, wanneer er metastase optreedt, is het van groot belang dit zo snel mogelijk in kaart te brengen. Het identificeren van risicopatiënten voor long metastase is daarom essentieel voor het opstellen van het behandelplan en het inplannen van vervolg scans.&lt;/p&gt;
+&lt;p&gt;Op dit moment is het moeilijk te voorspellen welke patiënten met een weke delen tumor een long metastase gaan doormaken. Het fenotype, locatie en tumorgraad kunnen al een hint geven. Zo hebben tumoren in de extremiteiten een grotere kans tot uitzaaiing naar de longen. Dit is hetzelfde geval bij hooggradige tumoren. Ook is de activiteit in de marginale zone van de resectie ook een indicatie voor kans op long metastase. Daarbij denken wij dat beeldkarakteristieken op MRI en/of CT een indicatie kunnen geven op de kans op long metastase.&lt;/p&gt;
+&lt;p&gt;Met deze studie willen we kijken of we een radiomics model kunnen ontwikkelen die de kans op distale longmetastase kan voorspellen. Radiomics is een innovatieve methode waarbij moleculaire informatie wordt gekoppeld aan beeldkarakteristieken. Met deze techniek kan op basis van specifieke beeldkarakteristieken een voorspelling worden gedaan over de aard en progressie van de tumor. Door dit computermodel op basis van MRI- of CT-beelden te ‘leren’ welke patiënten risico lopen op een long metastase hopen we in de toekomst patiënten de meest optimale behandeling te geven.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Onderzoeksvraag &amp;amp; Doel&lt;/strong&gt;
+Het doel van dit onderzoek is om een radiomics model te ontwikkelen wat op basis van MRI- en/of CT-beelden kan voorspellen of een patiënt met een weke delen tumor risico loopt op een long metastase.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Onderzoeksactiviteiten&lt;/strong&gt;
+Gedeeltelijke database van patiënten is aanwezig, de resterende patiënten uit het EMC zijn reeds geselecteerd maar de gegevens moeten nog worden verzameld.
+Statistische analyse m.b.v. SPSS en/of R: Klinische karakteristieken (Univariate en multivariate analysis), evaluatie radiomicsmodel (ROC-curve, accuracy, sensitivity, specificity, negative predictive value, and positive value).
+Goedkeuren van automatisch gegenereerd segmentaties van de tumor en mogelijk intekenen van onbekende segmentatie van tumoren op de MRI- of CT-beelden m.b.v. segmentatiesoftware (ontwikkeld door het Erasmus MC). Tevens is het mogelijk mee te kijken op OK bij complexe operaties en mee te lopen op de poli&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Related research:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.3322/caac.21605&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.3322/caac.21605&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.1097/00000658-199905000-00002&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1097/00000658-199905000-00002&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.1158/0008-5472.CAN-16-1536&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1158/0008-5472.CAN-16-1536&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Supervisors&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Douwe Spaanderman (PhD Student)&lt;/li&gt;
+&lt;li&gt;Martijn Starmans&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.erasmusmc.nl/nl-nl/kankerinstituut/patientenzorg/zorgverleners/grunhagen-dirk&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dirk Grünhagen&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;Feel free to mail me if you are interested in this project or want more information!&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Optimization of Preoperative Lymph Node Staging in Patients with Muscle-Invasive Bladder Cancer Using Radiomics on Computed Tomography</title>
+      <link>https://MStarmans91.github.io/publication/starmans-2022-cir-guidance/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/starmans-2022-cir-guidance/</guid>
       <description></description>
     </item>
     

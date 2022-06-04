@@ -258,6 +258,45 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=221901720"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', '221901720', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -316,7 +355,7 @@
     <meta property="twitter:image" content="https://MStarmans91.github.io/media/icon_hu08ff99a11f940ac4761bcab7c4c5c317_13983_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
   
     
-      <meta property="og:updated_time" content="2022-02-24T13:11:31&#43;00:00" />
+      <meta property="og:updated_time" content="2022-04-01T00:00:00&#43;00:00" />
     
   
 
@@ -973,7 +1012,7 @@
           
         
 
-        <div class="grid-sizer col-lg-12 isotope-item pubtype-3 year-2022">
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2022">
           
 
 
@@ -988,31 +1027,32 @@
 
   <span class="author-highlighted">
       Martijn P. A. Starmans</span>, <span >
-      Li S. Ho</span>, <span >
+      Li Shen Ho</span>, <span >
       Fokko Smits</span>, <span >
-      Nick Bije</span>, <span >
+      Nick Beije</span>, <span >
       Inge de Kruijff</span>, <span >
-      Joep de Jong</span>, <span >
-      Diederik Somford</span>, <span >
-      Egbert R. Boevé</span>, <span >
+      Joep J de Jong</span>, <span >
+      Diederik M Somford</span>, <span >
+      Egbert R Boevé</span>, <span >
       Ed te Slaa</span>, <span >
-      Evelyne C. C. Cauberg</span>, <span >
+      Evelyne C C Cauberg</span>, <span >
       Sjoerd Klaver</span>, <span >
-      Antoine G. van der Heijden</span>, <span >
-      Carl Wijburg</span>, <span >
-      Addy C.M. van de Luijtgaarden</span>, <span >
-      Harm H.E. van Melick</span>, <span >
+      Antoine G van der Heijden</span>, <span >
+      Carl J Wijburg</span>, <span >
+      Addy C M van de Luijtgaarden</span>, <span >
+      Harm H E van Melick</span>, <span >
       Ella Cauffman</span>, <span >
       Peter de Vries</span>, <span >
       Rens Jacobs</span>, <span >
-      W. J. Niessen</span>, <span >
-      Jacob J. Visser</span>, <span >
+      Wiro J Niessen</span>, <span >
+      Jacob J Visser</span>, <span >
       Stefan Klein</span>, <span >
-      Joost Boormans</span>, <span >
-      Astrid A. M. van der Veldt</span>
+      Joost L Boormans</span>, <span >
+      Astrid A M van der Veldt</span>
   </span>
   (2022).
-  <a href="/publication/starmans-cirguidance-unpublished/">Optimization of preoperative lymph node staging in patients with muscle-invasive bladder cancer using radiomics on computed tomography</a>.
+  <a href="/publication/starmans-2022-cir-guidance/">Optimization of Preoperative Lymph Node Staging in Patients with Muscle-Invasive Bladder Cancer Using Radiomics on Computed Tomography</a>.
+  Bladder Cancer Lymph Node Staging with Radiomics.
   
   <p>
 
@@ -1030,7 +1070,7 @@
 
 
 <a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
-        data-filename="/publication/starmans-cirguidance-unpublished/cite.bib">
+        data-filename="/publication/starmans-2022-cir-guidance/cite.bib">
   Cite
 </a>
 
@@ -1045,6 +1085,10 @@
 
 
 
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.3390/jpm12050726" target="_blank" rel="noopener">
+  DOI
+</a>
 
 
 </p>

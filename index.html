@@ -288,6 +288,45 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=221901720"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', '221901720', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -1076,41 +1115,21 @@
     <h1>Biography</h1>
 
     <div class="article-style">
-      <p>Martijn Starmans is a postdoctoral researcher at the Biomedical Imaging Group
-of the Erasmus MC (Rotterdam, the Netherlands). His main research interest is the use of radiomics and
-deep learning to improve the diagnostic work-up in oncology. To this end, he
-focusses on exploiting automated machine learning and meta-learning to generalize
-methods across applications. To evaluate this generalization, he works on a variety of clinical applications
-(e.g. sarcoma, liver cancer, colorectal cancer, bladder cancer, melanoma, cardiology, neuroendocrine tumors)
+      <p>Martijn Starmans is a postdoctoral researcher at the Biomedical Imaging Group of the Erasmus MC (Rotterdam, the Netherlands). His main research interest is the use of radiomics and
+deep learning to improve the diagnostic work-up in oncology. To this end, he focusses on exploiting automated machine learning and meta-learning to generalize methods across applications. To evaluate this generalization, he works on a variety of clinical applications (e.g. sarcoma, liver cancer, colorectal cancer, bladder cancer, melanoma, cardiology, neuroendocrine tumors)
 with various clinicians.</p>
-<p>He successfully co-applied for a grant from the Hanarth foundation
-on <a href="https://www.hanarthfonds.nl/en/stefan-klein" target="_blank" rel="noopener"><em>AI for the grading and phenotyping of soft-tissue tumors</em></a>,
-is part of the <a href="https://eucanimage.eu/" target="_blank" rel="noopener">EuCanImage consortium</a>, and is
-currently co-supervising two PhD students. As supporter of open science,
-he has released the software for all his studies open source (e.g.
-<a href="https://github.com/MStarmans91/WORC" target="_blank" rel="noopener">WORC</a>)
-and released a large <a href="https://doi.org/10.1101/2021.08.19.21262238" target="_blank" rel="noopener">public database</a>
-of 930 patients. As recognition, he was one of the winners of the <a href="https://www.riotsciencenl.com/award-winners" target="_blank" rel="noopener">Convergence Open Research
+<p>He successfully co-applied for a grant from the Hanarth foundation on <a href="https://www.hanarthfonds.nl/en/stefan-klein" target="_blank" rel="noopener"><em>AI for the grading and phenotyping of soft-tissue tumors</em></a>, and is currently co-supervising two PhD students. Through his research, he has gained ample experience with imaging infrastructure, e.g. DICOM, CTP, XNAT. As supporter of open science, he has released the software for all his studies open source (e.g. <a href="https://github.com/MStarmans91/WORC" target="_blank" rel="noopener">WORC</a>) and released a large <a href="https://doi.org/10.1101/2021.08.19.21262238" target="_blank" rel="noopener">public database</a> of 930 patients. As recognition, he was one of the winners of the <a href="https://www.riotsciencenl.com/award-winners" target="_blank" rel="noopener">Convergence Open Research
 Awards 2021</a>.</p>
+<p><strong>International collaborations</strong></p>
+<p>Martijn is involved in various working groups and co-leader of the platform work package of the Horizon 2020 <a href="https://eucanimage.eu/" target="_blank" rel="noopener">EuCanImage consortium</a>: <em>Towards a European cancer imaging platform for enhanced Artificial Intelligence in oncology</em>. In this context, he will visit the group of Prof. Dr. Karim Lekadir in the last three months of 2022. He is one of the initiators of the Sarcoma Artificial Intelligence (SAI) consortium (<a href="https://www.hanarthfonds.nl/en/stefan-klein" target="_blank" rel="noopener">grant awarded</a>) and the Liver Artificial Intelligence (LAI) consortium (grant submitted). In these consortia, in total 44 clinical centers, companies, professional- and patientassociations from 17 countries are united. He is also part of the Convergence flagship <em>Radiation Therapy Centre 2030: Personalized Self-Steering Radiotherapy</em> (grant submitted).</p>
 <p><strong>PhD Degree</strong></p>
-<p>Martijn obtained his PhD degree <em>&lsquo;&lsquo;cum laude&rsquo;'</em> on February 1 2022 with his thesis titled
-<em><a href="https://repub.eur.nl/pub/137089/thesis-MPA-Starmans-embargo-version-61c5831509bd6.pdf" target="_blank" rel="noopener">Streamlined Quantitative Imaging Biomarker Development: Generalization of
-radiomics through automated machine learning</a></em>.
-Following his passion to efficiently and automatically optimize routines, he
-developed an adaptive radiomics framework using automated machine learning,
-described in <a href="https://arxiv.org/pdf/2108.08618.pdf" target="_blank" rel="noopener">this paper</a>. He collaborated
-with a large number of clinicians to develop radiomics biomarkers in a wide
+<p>Martijn obtained his PhD degree <em>&lsquo;&lsquo;cum laude&rsquo;'</em> on February 1 2022 with his thesis titled <em><a href="https://repub.eur.nl/pub/137089/thesis-MPA-Starmans-embargo-version-61c5831509bd6.pdf" target="_blank" rel="noopener">Streamlined Quantitative Imaging Biomarker Development: Generalization of radiomics through automated machine learning</a></em>.
+Following his passion to efficiently and automatically optimize routines, he developed an adaptive radiomics framework using automated machine learning, described in <a href="https://arxiv.org/pdf/2108.08618.pdf" target="_blank" rel="noopener">this paper</a>. He collaborated with a large number of clinicians to develop radiomics biomarkers in a wide
 variety of clinical applications.</p>
-<p><strong>Education</strong></p>
-<p>Martijn has co-founded two courses in the
-<a href="https://www.tudelft.nl/onderwijs/opleidingen/masters/technical-medicine/msc-technical-medicine" target="_blank" rel="noopener">MSc Technical Medicine</a>,
-which is he still teaching along. He also teaches a course in the BSc
-Technical Medicine. His tasks include preparing and giving lectures, developing
-and supervising programming sessions, and examination. He majorly enjoys
-working together with students and has (co-)supervised 28 students in
-interships and thesis projects.</p>
 <p>
   <i class="fas fa-download  pr-1 fa-fw"></i> Download my <a href="https://repub.eur.nl/pub/137089/thesis-MPA-Starmans-embargo-version-61c5831509bd6.pdf" target="_blank" rel="noopener">PhD Thesis</a>.</p>
+<p><strong>Educational activities</strong></p>
+<p>Martijn has co-founded two courses in the <a href="https://www.tudelft.nl/onderwijs/opleidingen/masters/technical-medicine/msc-technical-medicine" target="_blank" rel="noopener">MSc Technical Medicine</a>, which is he still teaching along. He also teaches a course in the BSc Technical Medicine. His tasks include preparing and giving lectures, developing and supervising programming sessions, and examination. He majorly enjoys working together with students and has (co-)supervised 28 students in interships and thesis projects.</p>
 <p>
   <i class="fas fa-download  pr-1 fa-fw"></i> Download my <a href="/uploads/CV.pdf" target="_blank">resumé</a>.</p>
 
@@ -1132,6 +1151,16 @@ interships and thesis projects.</p>
           <li>Deep Learning</li>
           
           <li>Medical Image Processing</li>
+          
+          <li>Pathomics</li>
+          
+          <li>Oncology</li>
+          
+          <li>Soft-tissue tumors / sarcoma</li>
+          
+          <li>Liver cancer</li>
+          
+          <li>Liver metastases</li>
           
         </ul>
       </div>
@@ -1504,6 +1533,126 @@ Reference of formal applicant available upon request. </font></div>
     
 
   <span class="author-highlighted">
+      Martijn P. A. Starmans</span>, <span >
+      Li Shen Ho</span>, <span >
+      Fokko Smits</span>, <span >
+      Nick Beije</span>, <span >
+      Inge de Kruijff</span>, <span >
+      Joep J de Jong</span>, <span >
+      Diederik M Somford</span>, <span >
+      Egbert R Boevé</span>, <span >
+      Ed te Slaa</span>, <span >
+      Evelyne C C Cauberg</span>, <span >
+      Sjoerd Klaver</span>, <span >
+      Antoine G van der Heijden</span>, <span >
+      Carl J Wijburg</span>, <span >
+      Addy C M van de Luijtgaarden</span>, <span >
+      Harm H E van Melick</span>, <span >
+      Ella Cauffman</span>, <span >
+      Peter de Vries</span>, <span >
+      Rens Jacobs</span>, <span >
+      Wiro J Niessen</span>, <span >
+      Jacob J Visser</span>, <span >
+      Stefan Klein</span>, <span >
+      Joost L Boormans</span>, <span >
+      Astrid A M van der Veldt</span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    April, 2022
+  </span>
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="pub-publication">
+    
+      Bladder Cancer Lymph Node Staging with Radiomics
+    
+  </span>
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
+  
+  
+  <a href="/publication/starmans-2022-cir-guidance/" >
+    <div class="img-hover-zoom">
+      <img src="/publication/starmans-2022-cir-guidance/featured_huc1e4b4b37dcd9dd351b3050ed1ccda8e_455290_808x455_fill_q75_h2_lanczos_smart1.webp" height="455" width="808"
+           class="article-banner" alt="Optimization of Preoperative Lymph Node Staging in Patients with Muscle-Invasive Bladder Cancer Using Radiomics on Computed Tomography" loading="lazy">
+    </div>
+  </a>
+  
+
+  <div class="section-subheading article-title mb-1 mt-3">
+    <a href="/publication/starmans-2022-cir-guidance/" >Optimization of Preoperative Lymph Node Staging in Patients with Muscle-Invasive Bladder Cancer Using Radiomics on Computed Tomography</a>
+  </div>
+
+  
+  <a href="/publication/starmans-2022-cir-guidance/"  class="summary-link">
+    <div class="article-style">
+      <p>Approximately 25% of the patients with muscle-invasive bladder cancer who are clinically node negative have occult lymph node metastases at radical cystectomy and pelvic lymph node dissection. The aim of this study was to evaluate preoperative CT-based radiomics to differentiate between pN+ and pN0 disease in patients with clinical stage cT2-T4aN0-N1M0 MIBC.</p>
+    </div>
+  </a>
+  
+
+  
+
+</div>
+
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<div class="card-simple view-card">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span class="author-highlighted">
       Martijn P. A. Starmans</span>
   </div>
   
@@ -1726,31 +1875,32 @@ Reference of formal applicant available upon request. </font></div>
 
   <span class="author-highlighted">
       Martijn P. A. Starmans</span>, <span >
-      Li S. Ho</span>, <span >
+      Li Shen Ho</span>, <span >
       Fokko Smits</span>, <span >
-      Nick Bije</span>, <span >
+      Nick Beije</span>, <span >
       Inge de Kruijff</span>, <span >
-      Joep de Jong</span>, <span >
-      Diederik Somford</span>, <span >
-      Egbert R. Boevé</span>, <span >
+      Joep J de Jong</span>, <span >
+      Diederik M Somford</span>, <span >
+      Egbert R Boevé</span>, <span >
       Ed te Slaa</span>, <span >
-      Evelyne C. C. Cauberg</span>, <span >
+      Evelyne C C Cauberg</span>, <span >
       Sjoerd Klaver</span>, <span >
-      Antoine G. van der Heijden</span>, <span >
-      Carl Wijburg</span>, <span >
-      Addy C.M. van de Luijtgaarden</span>, <span >
-      Harm H.E. van Melick</span>, <span >
+      Antoine G van der Heijden</span>, <span >
+      Carl J Wijburg</span>, <span >
+      Addy C M van de Luijtgaarden</span>, <span >
+      Harm H E van Melick</span>, <span >
       Ella Cauffman</span>, <span >
       Peter de Vries</span>, <span >
       Rens Jacobs</span>, <span >
-      W. J. Niessen</span>, <span >
-      Jacob J. Visser</span>, <span >
+      Wiro J Niessen</span>, <span >
+      Jacob J Visser</span>, <span >
       Stefan Klein</span>, <span >
-      Joost Boormans</span>, <span >
-      Astrid A. M. van der Veldt</span>
+      Joost L Boormans</span>, <span >
+      Astrid A M van der Veldt</span>
   </span>
   (2022).
-  <a href="/publication/starmans-cirguidance-unpublished/">Optimization of preoperative lymph node staging in patients with muscle-invasive bladder cancer using radiomics on computed tomography</a>.
+  <a href="/publication/starmans-2022-cir-guidance/">Optimization of Preoperative Lymph Node Staging in Patients with Muscle-Invasive Bladder Cancer Using Radiomics on Computed Tomography</a>.
+  Bladder Cancer Lymph Node Staging with Radiomics.
   
   <p>
 
@@ -1768,7 +1918,7 @@ Reference of formal applicant available upon request. </font></div>
 
 
 <a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
-        data-filename="/publication/starmans-cirguidance-unpublished/cite.bib">
+        data-filename="/publication/starmans-2022-cir-guidance/cite.bib">
   Cite
 </a>
 
@@ -1783,6 +1933,10 @@ Reference of formal applicant available upon request. </font></div>
 
 
 
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.3390/jpm12050726" target="_blank" rel="noopener">
+  DOI
+</a>
 
 
 </p>
@@ -2123,6 +2277,192 @@ Reference of formal applicant available upon request. </font></div>
       
     
 
+    
+      
+        
+          <div class="col-12 isotope-item js-id-Deep-Learning js-id-Clinical js-id-Radiomics">
+        
+        
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/project/systematic/" >A systematic review reporting quality of radiomics research in the diagnosis and prognosis of soft-tissue sarcoma</a>
+    </div>
+
+    
+    <a href="/project/systematic/"  class="summary-link">
+      <div class="article-style">
+        What are the challenges and gaps for AI in soft-tissue tumor research?
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/project/systematic/" >
+      <img src="/project/systematic/featured_hu3ec49ea08e4180abe4b0835933cd4048_395748_150x0_resize_q75_h2_lanczos_3.webp" height="84" width="150"
+           alt="A systematic review reporting quality of radiomics research in the diagnosis and prognosis of soft-tissue sarcoma" loading="lazy">
+    </a>
+    
+  </div>
+</div>
+
+      </div>
+    
+      
+        
+          <div class="col-12 isotope-item js-id-Deep-Learning js-id-Clinical js-id-Radiomics js-id-Technical">
+        
+        
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/project/gist/" >Computer-aided Diagnosis for Gastrointestinal Stromal Tumors on CT using Deep Learning</a>
+    </div>
+
+    
+    <a href="/project/gist/"  class="summary-link">
+      <div class="article-style">
+        Preoperative prediction of therapy biomarkers and genetic mutations using radiomics and deep learning to select patients for treatment
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/project/gist/" >
+      <img src="/project/gist/featured_hu7474c67ae1a3c21c26ae93e165db555a_176121_150x0_resize_q75_h2_lanczos_3.webp" height="84" width="150"
+           alt="Computer-aided Diagnosis for Gastrointestinal Stromal Tumors on CT using Deep Learning" loading="lazy">
+    </a>
+    
+  </div>
+</div>
+
+      </div>
+    
+      
+        
+          <div class="col-12 isotope-item js-id-Deep-Learning js-id-Clinical js-id-Radiomics">
+        
+        
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item view-compact">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/project/sttlung/" >Preoperatieve risicostratificatie voor long metastase bij weke delen tumor met behulp van een radiomics model</a>
+    </div>
+
+    
+    <a href="/project/sttlung/"  class="summary-link">
+      <div class="article-style">
+        Only available in Dutch
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/project/sttlung/" >
+      <img src="/project/sttlung/featured_hu7474c67ae1a3c21c26ae93e165db555a_176121_150x0_resize_q75_h2_lanczos_3.webp" height="84" width="150"
+           alt="Preoperatieve risicostratificatie voor long metastase bij weke delen tumor met behulp van een radiomics model" loading="lazy">
+    </a>
+    
+  </div>
+</div>
+
+      </div>
     
       
         
@@ -2480,6 +2820,26 @@ Reference of formal applicant available upon request. </font></div>
     
 
     <div class="portrait-title">
+      <h2>Aisha Goedhart</h2>
+      
+      <h3>MSc Biomedical Engineering, Delft University of Technology, Delft, NL (2022)</h3>
+      
+      <p class="people-interests">Phenotyping of primary liver tumors on multi-parametric MRI through deep radiomics.</p>
+    </div>
+  </div>
+  
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+    
+
+    <div class="portrait-title">
       <h2>Douwe Spaanderman</h2>
       
       <h3>PhD Student, Erasmus MC, Rotterdam, NL</h3>
@@ -2623,6 +2983,58 @@ Reference of formal applicant available upon request. </font></div>
     <div class="col-auto text-center flex-column d-none d-sm-flex">
       <div class="row h-50">
         <div class="col ">&nbsp;</div>
+        <div class="col">&nbsp;</div>
+      </div>
+      <div class="m-2">
+        <span class="badge badge-pill border ">&nbsp;</span>
+      </div>
+      <div class="row h-50">
+        <div class="col border-right">&nbsp;</div>
+        <div class="col">&nbsp;</div>
+      </div>
+    </div>
+    
+    <div class="col py-2">
+      <div class="card">
+        <div class="card-body">
+          <div class="d-flex align-content-start">
+            <div class="mr-2 mb-2"><a href="https://www.bcn-aim.org/" target="_blank" rel="noopener"><img src="/media/icons/brands/Universitat_de_Barcelona.svg" width="56px" height="56px" alt="University of Barcelona, Artificial Intelligence in Medicine Lab" loading="lazy"></a></div>
+            <div>
+          
+
+              <div class="section-subheading card-title exp-title text-muted my-0">Visiting Postdoctoral Researcher (Planned)</div>
+              <div class="section-subheading card-title exp-company text-muted my-0"><a href="https://www.bcn-aim.org/" target="_blank" rel="noopener">University of Barcelona, Artificial Intelligence in Medicine Lab</a></div>
+              <div class="text-muted exp-meta">
+                Oct 1, 2022 –
+                
+                  Jan 1, 2023
+                
+                
+                  <span class="middot-divider"></span>
+                  <span>Barcelona, Spain</span>
+                
+              </div>
+            </div>
+          </div>
+          
+
+          <div class="card-text"><p>Martijn will visit the group of Prof. Dr. Karim Lekadir to collaborate on AI for
+oncology and cardiac imaging within the context of the EuCanImage and euCanSHare consortia.
+Besides evaluating the use of (deep) radiomics in “new”
+applications, they will primarily work on federated learning, the FUTURE-AI
+guiding principles, and improving the clinical utility of (radiomics) AI tools.</p>
+<p>Supervisors: Karim Lekadir</p>
+</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="row experience">
+    
+    <div class="col-auto text-center flex-column d-none d-sm-flex">
+      <div class="row h-50">
+        <div class="col border-right">&nbsp;</div>
         <div class="col">&nbsp;</div>
       </div>
       <div class="m-2">

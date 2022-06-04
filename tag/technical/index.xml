@@ -5,12 +5,37 @@
     <link>https://MStarmans91.github.io/tag/technical/</link>
       <atom:link href="https://MStarmans91.github.io/tag/technical/index.xml" rel="self" type="application/rss+xml" />
     <description>Technical</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 24 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 03 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://MStarmans91.github.io/media/icon_hu08ff99a11f940ac4761bcab7c4c5c317_13983_512x512_fill_lanczos_center_3.png</url>
       <title>Technical</title>
       <link>https://MStarmans91.github.io/tag/technical/</link>
     </image>
+    
+    <item>
+      <title>Computer-aided Diagnosis for Gastrointestinal Stromal Tumors on CT using Deep Learning</title>
+      <link>https://MStarmans91.github.io/project/gist/</link>
+      <pubDate>Fri, 03 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/project/gist/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Background&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Gastrointestinal Stromal Tumors (GIST) are a complex group of rare tumors with a broad range of differentiation. The subtypes of GIST differ in their clinical behavior, aggressiveness, molecular background, and preferred treatments given. In order to guide personalized medicine, identifying biomarkers for patient outcomes is essential. The use of features in radiology imaging (‘radiomics’) such as CT can be used to identify such biomarkers. These biomarkers have advantages as they can be retrieved from standard clinical practice, are non-invasive, and can be easily repeated to follow the patient in time. Currently, genetic biomarkers such as the KIT mutations are used to stratify patients at risk. We hypothesize that deep learning can detect these genetic biomarkers as well as novel biomarkers from imaging features.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Aim&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The aim of this research is to create a deep learning model identifying known biomarkers directly from CT scans, such as specific KIT mutations, as well as identifying novel imaging biomarkers which will let us directly infer patient survival and treatment response. In order to achieve this, we have already collected clinical and imaging data of 1400 GIST patients, in a multi-center setting.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Related research:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.1038/s41572-021-00254-5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1038/s41572-021-00254-5&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.1016/j.humpath.2008.06.025&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1016/j.humpath.2008.06.025&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.1007/s10278-022-00590-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1007/s10278-022-00590-2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Supervisors&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Douwe Spaanderman (PhD Student)&lt;/li&gt;
+&lt;li&gt;Martijn Starmans&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.erasmusmc.nl/en/research/researchers/klein-stefan&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stefan Klein&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;Feel free to mail me if you are interested in this project or want more information!&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>AutoML For Deep Learning</title>
