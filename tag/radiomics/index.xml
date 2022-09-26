@@ -97,32 +97,6 @@ Goedkeuren van automatisch gegenereerd segmentaties van de tumor en mogelijk int
     </item>
     
     <item>
-      <title>Colorectal Liver Metastases Chemotherapy Prediction</title>
-      <link>https://MStarmans91.github.io/project/hgp/</link>
-      <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://MStarmans91.github.io/project/hgp/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Background&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The prognosis of colorectal liver metastases is highly influenced by the so-called histopathological growth pattern (HGP), i.e. the interaction between the liver and tumor tissue. Patients with more aggressive growth patterns have a far worse prognosis and may benefit from preoperative neo-adjuvant chemotherapy. Unfortunately, the HGP can currently only be determined based on surgery and thus post-operatively. Our clinicians are therefore looking for a pre-operative alternative.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Aim&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The aim of this project is therefore to preoperatively predict the HGP based on computed tomography images using a combination of radiomics and deep learning. Previously, we have already distinguished pure HGPs (100% of one type) (see first paper below). Hence, using those methods, you should be able to quickly set a baseline for mixed HGPs using an already acquired and segmented multicenter database of 400 patients and an external validation set of about 200 patients we also acquired. However, we expect that this mixture is much more difficult to predict, and further technical advancements (e.g. multitask regression, combined detection and classification) are required, which will be your main task.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Related research:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://doi.org/10.1016/j.semcancer.2020.07.002&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1016/j.semcancer.2020.07.002&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://doi.org/10.1245/s10434-019-07910-x&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1245/s10434-019-07910-x&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://doi.org/10.1016/B978-0-12-816176-0.00023-5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1016/B978-0-12-816176-0.00023-5&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://doi.org/10.1002/bjs.11410&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1002/bjs.11410&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Supervisors&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Martijn Starmans&lt;/li&gt;
-&lt;li&gt;Boris Galjart (Department of Surgery)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.erasmusmc.nl/en/research/researchers/klein-stefan&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stefan Klein&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;em&gt;Feel free to mail me if you are interested in this project or want more information!&lt;/em&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Lymph Node Staging</title>
       <link>https://MStarmans91.github.io/project/lymphnode/</link>
       <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
