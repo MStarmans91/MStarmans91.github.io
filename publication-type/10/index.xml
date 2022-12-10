@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>10 | Martijn P.A. Starmans, PhD - Radiomics and AutoML</title>
+    <link>https://MStarmans91.github.io/publication-type/10/</link>
+      <atom:link href="https://MStarmans91.github.io/publication-type/10/index.xml" rel="self" type="application/rss+xml" />
+    <description>10</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://MStarmans91.github.io/media/icon_hu08ff99a11f940ac4761bcab7c4c5c317_13983_512x512_fill_lanczos_center_3.png</url>
+      <title>10</title>
+      <link>https://MStarmans91.github.io/publication-type/10/</link>
+    </image>
+    
+    <item>
+      <title>CLMRadiomics</title>
+      <link>https://MStarmans91.github.io/publication/clm-radiomics/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/clm-radiomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LiverRadiomics</title>
+      <link>https://MStarmans91.github.io/publication/liver-radiomics/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/liver-radiomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MelaRadiomics</title>
+      <link>https://MStarmans91.github.io/publication/mela-radiomics/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/mela-radiomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MesentericRadiomics</title>
+      <link>https://MStarmans91.github.io/publication/mesenteric-radiomics/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/mesenteric-radiomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WORCDatabase</title>
+      <link>https://MStarmans91.github.io/publication/worc-database/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/worc-database/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DMRadiomics</title>
+      <link>https://MStarmans91.github.io/publication/dm-radiomics/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/dm-radiomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GISTRadiomics</title>
+      <link>https://MStarmans91.github.io/publication/gist-radiomics/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/gist-radiomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LipoRadiomicsFeatures</title>
+      <link>https://MStarmans91.github.io/publication/lipo-radiomics-features/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/lipo-radiomics-features/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predict: a Radiomics Extensive Digital Interchangable Classification Toolkit (PREDICT)</title>
+      <link>https://MStarmans91.github.io/publication/predict/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/predict/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workflow for Optimal Radiomics Classification (WORC)</title>
+      <link>https://MStarmans91.github.io/publication/worc/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/worc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
