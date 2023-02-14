@@ -5,12 +5,87 @@
     <link>https://MStarmans91.github.io/tag/deep-learning/</link>
       <atom:link href="https://MStarmans91.github.io/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Deep Learning</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 03 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 13 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://MStarmans91.github.io/media/icon_hu08ff99a11f940ac4761bcab7c4c5c317_13983_512x512_fill_lanczos_center_3.png</url>
       <title>Deep Learning</title>
       <link>https://MStarmans91.github.io/tag/deep-learning/</link>
     </image>
+    
+    <item>
+      <title>Adaptive deep learning in oncology classification through automated machine learning (AutoML)</title>
+      <link>https://MStarmans91.github.io/project/deepworc/</link>
+      <pubDate>Mon, 13 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/project/deepworc/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Background&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Oncology is a major focus of precision medicine, with medical imaging, e.g., Magnetic Resonance Imaging (MRI) and Computed Tomography (CT), gaining an increasingly important role. Artificial Intelligence (AI), particularly deep learning, has made significant advances in developing predictive models from medical imaging. Currently, in medical imaging, AI models are manually constructed through a heuristic trial-and-error process, which suffers various drawbacks (e.g. time consuming, requiring expert knowledge, low reproducibility, sub-optimal performance).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Aim&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The aim of this research is to overcome these drawback by developing AutoML methods to automatically optimize model construction per oncological application. You will work on a variety of oncological diseases, with a focus on rare cancers (e.g. sarcoma, primary liver cancer, colorectal cancer, melanoma, glioma), where in each application there is a classification task to be solved. You will have to design a search space of promising deep learning solutions (e.g. CNNs, transformers) and develop an AutoML algorithm to optimize model construction. We aim to make the optimization strategy model- and task-agnostic, such that various deep learning models can be tried, and other tasks besides segmentation such as classification can be used. The project is quite technical: however, the resulting biomarkers can have substantial clinical impact.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Related research:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://automl.org/automl/literature-on-neural-architecture-search&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://automl.org/automl/literature-on-neural-architecture-search&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.48550/arXiv.2108.08618&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.48550/arXiv.2108.08618&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.1109/TPAMI.2021.3067763&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1109/TPAMI.2021.3067763&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Supervisors&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Martijn Starmans&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.erasmusmc.nl/en/research/researchers/klein-stefan&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stefan Klein&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;Feel free to mail me if you are interested in this project or want more information!&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Diagnosis of solid appearing lesions based on MRI and deep learning</title>
+      <link>https://MStarmans91.github.io/project/lai/</link>
+      <pubDate>Mon, 13 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/project/lai/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Background&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Differential diagnosis of solid appearing liver lesions (groups of abnormal cells in the liver, either malignant or benign) based on magnetic resonance imaging (MRI) is one of the most important challenges for abdominal radiologists. Based on their interpretation, patients are referred back with no need for follow-up or they may undergo further analysis with subsequent treatments including surgery or chemotherapy. In current practice, the differential diagnosis of liver lesions is based on subjective and qualitative assessment, relying vastly on the experience of the local radiologist. More objective and quantitative approaches are therefore urgently needed.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Aim&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The aim of this research is to create a deep learning model for comprehensive liver tumor phenotyping based on MRI. We already have a database of 500 patients from various centers for you to start with four different liver tumors. You first task will be to extend this database by including more patients from the EMC with other liver lesion phenotypes. Using this dataset, you main task is to develop a multi-parametric MRI (e.g. T1, T2, DWI, contrast enhanced T1) deep learning model for the classification of these liver lesions. The main challenge is how to optimally combine the information from the different MRI sequences, while dealing with missing data and substantial heterogeneity. Optionally, we might also want to create a segmentation model, as this is something the radiologists would like to use in the clinic as well to quantify therapy response. You can focus on the more clinical aspects of the project in close collaboration with the radiologists, or the more technical aspects on how to construct such a model.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Related research:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.1101/2021.08.10.21261827&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1101/2021.08.10.21261827&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.48550/arXiv.2108.08618&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.48550/arXiv.2108.08618&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Supervisors&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Martijn Starmans&lt;/li&gt;
+&lt;li&gt;Maarten Thomeer (Abdominal radiologist)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.erasmusmc.nl/en/research/researchers/klein-stefan&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stefan Klein&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;Feel free to mail me if you are interested in this project or want more information!&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Preoperative prediction of colorectal liver metastases aggressiveness using pathomics</title>
+      <link>https://MStarmans91.github.io/project/crlmpathomics/</link>
+      <pubDate>Mon, 13 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/project/crlmpathomics/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Background&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The prognosis of colorectal liver metastases (CRLM) is highly influenced by the so-called histopathological growth pattern (HGP), i.e. the interaction between the liver and tumor tissue. Patients with more aggressive growth patterns have a far worse prognosis and may benefit from preoperative neo-adjuvant chemotherapy. Unfortunately, the HGP can currently only be determined based on surgery and thus post-operatively. Our clinicians are therefore looking for a pre-operative alternative. Previously, we have already shown that histopathological characteristic of the primary tumor relate to the HGP (link 1 below).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Aim&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The aim of this research is to create a deep learning model based on histopathology slides of the primary tumor to predict the CRLM HGP. We will take a two-fold approach: 1) automate the scoring of the characteristics that were previously found to be predictive. This will result in a highly explainable model, but performance might nog be ideal. 2) Take an agnostic approach, where you will use recent advances in AI models for whole slide image representation to train end-to-end models that determines CRLM HGPs directly from the primary tumour image. This project will be conducted in close collaboration with the Department of Surgery, Department of Pathology, TU Eindhoven, and GZA Antwerp.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Related research:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.1186/s12885-022-09994-3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1186/s12885-022-09994-3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.1038/s41416-022-01859-7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1038/s41416-022-01859-7&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.1016/j.semcancer.2020.07.002&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1016/j.semcancer.2020.07.002&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Scaling_Vision_Transformers_to_Gigapixel_Images_via_Hierarchical_Self-Supervised_Learning_CVPR_2022_paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Scaling_Vision_Transformers_to_Gigapixel_Images_via_Hierarchical_Self-Supervised_Learning_CVPR_2022_paper.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Supervisors&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Martijn Starmans&lt;/li&gt;
+&lt;li&gt;Zhen Qian (Department of Surgery)&lt;/li&gt;
+&lt;li&gt;Mitko Veta (TU Eindhoven)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.erasmusmc.nl/en/research/researchers/klein-stefan&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stefan Klein&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;Feel free to mail me if you are interested in this project or want more information!&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>A systematic review reporting quality of radiomics research in the diagnosis and prognosis of soft-tissue sarcoma</title>
@@ -91,53 +166,6 @@ Goedkeuren van automatisch gegenereerd segmentaties van de tumor en mogelijk int
 &lt;li&gt;Douwe Spaanderman (PhD Student)&lt;/li&gt;
 &lt;li&gt;Martijn Starmans&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.erasmusmc.nl/nl-nl/kankerinstituut/patientenzorg/zorgverleners/grunhagen-dirk&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dirk Grünhagen&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;em&gt;Feel free to mail me if you are interested in this project or want more information!&lt;/em&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>AutoML For Deep Learning</title>
-      <link>https://MStarmans91.github.io/project/pareto/</link>
-      <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://MStarmans91.github.io/project/pareto/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Background&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;In recent years, a wide variety of deep learning methods for the classification of medical images have been proposed. On a new application, determining which method works best is tedious, challenging, and optimization generally leads to overfitting. Moreover, especially in rare diseases, the datasets are often simply too small for extensive optimization. Lastly, optimization is currently mostly done on the validation performance, while our goal is actually good generalization.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Aim&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The aim of this project is to overcome the limits of optimization through two complementary approaches. First, we propose to learn from previous problems which solutions worked best instead of starting from scratch through meta-learning. Second, instead of optimizing for validation performance, we will create an ensemble of complementary solutions using Pareto front multi-objective optimization. To this end, we have collected twelve  datasets of in total 2.500 patients on twelve different clinical applications (e.g. sarcoma, liver, prostate, brain, head and neck, neuroendocrine tumors) on which we previously successfully created individual classification models. Note that this project is quite technical and challenging.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Related research:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/1599245&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://ieeexplore.ieee.org/abstract/document/1599245&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://arxiv.org/abs/2004.05439&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2004.05439&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Supervisors&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Martijn Starmans&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.erasmusmc.nl/en/research/researchers/klein-stefan&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stefan Klein&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;em&gt;Feel free to mail me if you are interested in this project or want more information!&lt;/em&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Lymph Node Staging</title>
-      <link>https://MStarmans91.github.io/project/lymphnode/</link>
-      <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://MStarmans91.github.io/project/lymphnode/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Background&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;At present, clinical staging of lymph nodes (LN) in patients with muscle-invasive bladder cancer (MIBC) is usually performed on computed tomography (CT). In approximately 25% of the patients with MIBC and non-malignant locoregional small LNs prior to surgery, occult LN metastases are detected after radical cystectomy (RC) and pelvic LN dissection. Hence, there is an urgent clinical need to improve preoperative LN staging to better identify patients who may benefit from neoadjuvant chemotherapy (NAC).&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Aim&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The aim of this project is to evaluate the diagnostic accuracy of pre-operative CT-based radiomics and deep learning to differentiate between pN+ and pN0 patients with MIBC. A multicenter dataset of about 250 patients has already been acquired, and all LNs have been segmented. The main challenge is that patients usually have a lot of LNs (mean: 44), but in the pN+ patients, only a handful are actually metastases, and we don’t know which, only how many. A naive radiomics approach has already been tested and did not yield positive results. We therefore propose to use a novel CNN strategy, in which we process each LN separately, combine them per patient in one loss, and trace the predictions back to the individual LNs to identify the metastases. Your goal will be to design and implement such a strategy. The resulting model could be used both for LN staging, and additionally to identify the metastases to guide treatment planning.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Related research:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://stichtingduos.nl/cirguidance/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://stichtingduos.nl/cirguidance/&lt;/a&gt; (study from which the data originates)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://doi.org/10.1158/1078-0432.CCR-17-1510&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1158/1078-0432.CCR-17-1510&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Supervisors&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Martijn Starmans&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.erasmusmc.nl/nl-nl/kankerinstituut/patientenzorg/zorgverleners/veldt-astrid-van-der&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Astrid van der Veldt&lt;/a&gt; (Department of Oncology)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.erasmusmc.nl/en/research/researchers/klein-stefan&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stefan Klein&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;em&gt;Feel free to mail me if you are interested in this project or want more information!&lt;/em&gt;&lt;/p&gt;
 </description>
