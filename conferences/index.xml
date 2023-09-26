@@ -5,12 +5,100 @@
     <link>https://MStarmans91.github.io/conferences/</link>
       <atom:link href="https://MStarmans91.github.io/conferences/index.xml" rel="self" type="application/rss+xml" />
     <description>Conferences</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://MStarmans91.github.io/media/icon_hu08ff99a11f940ac4761bcab7c4c5c317_13983_512x512_fill_lanczos_center_3.png</url>
       <title>Conferences</title>
       <link>https://MStarmans91.github.io/conferences/</link>
     </image>
+    
+    <item>
+      <title>Does size matter? Response of melanoma brain metastases to immune checkpoint inhibitors</title>
+      <link>https://MStarmans91.github.io/conferences/derks-2023-brainmets/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/derks-2023-brainmets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interactive segmentation of Soft-Tissue Tumors on MRI and CT</title>
+      <link>https://MStarmans91.github.io/conferences/spaanderman-2023-ctos/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/spaanderman-2023-ctos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interactive segmentation of Soft-Tissue Tumors on MRI and CT</title>
+      <link>https://MStarmans91.github.io/conferences/spaanderman-2023-dsg/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/spaanderman-2023-dsg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interactive segmentation of Soft-Tissue Tumors on MRI and CT</title>
+      <link>https://MStarmans91.github.io/conferences/spaanderman-2023-ecr/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/spaanderman-2023-ecr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interactive segmentation of Soft-Tissue Tumors on MRI and CT</title>
+      <link>https://MStarmans91.github.io/conferences/spaanderman-2023-nvphbv/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/spaanderman-2023-nvphbv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MULTI-CENTER EXTERNAL VALIDATION OF A RADIOMICS MODEL DIFFERENTIATING BETWEEN ALT AND LIPOMA USING AUTOMATIC AND MINIMALLY INTERACTIVE SEGMENTATION METHODS</title>
+      <link>https://MStarmans91.github.io/conferences/hakkesteegt-2023-ctos/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/hakkesteegt-2023-ctos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting of Histopathological Growth Patterns of Colorectal Liver Metastases on CT Scans: using deep learning and radiomics</title>
+      <link>https://MStarmans91.github.io/conferences/samuel-2023-lmrn/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/samuel-2023-lmrn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting survival after surgery for colorectal liver metastasis with deep learning</title>
+      <link>https://MStarmans91.github.io/conferences/zhen-2023-lmrn/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/zhen-2023-lmrn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic segmentation of soft-tissue Tumors on MRI and CT</title>
+      <link>https://MStarmans91.github.io/conferences/spaanderman-2022-dsg/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/spaanderman-2022-dsg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic segmentation to distinguish between lipomas and well-differentiated liposarcomas using radiomics</title>
+      <link>https://MStarmans91.github.io/conferences/spaanderman-2022-ph-d-day/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/spaanderman-2022-ph-d-day/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AUTOMATIC SEGMENTATION USING DEEP LEARNING TO DISTINGUISH BETWEEN 9 TYPES OF SOFT-TISSUE TUMORS WITH RADIOMICS</title>
+      <link>https://MStarmans91.github.io/conferences/spaanderman-2022-ctos/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/spaanderman-2022-ctos/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Reproducible radiomics through automated machine learning validated on twelve clinical applications</title>

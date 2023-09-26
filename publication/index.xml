@@ -5,7 +5,7 @@
     <link>https://MStarmans91.github.io/publication/</link>
       <atom:link href="https://MStarmans91.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 10 Dec 2022 13:56:38 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://MStarmans91.github.io/media/icon_hu08ff99a11f940ac4761bcab7c4c5c317_13983_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -13,10 +13,138 @@
     </image>
     
     <item>
+      <title>Auditing Unfair Biases in CNN-based Diagnosis of Alzheimer’s Disease</title>
+      <link>https://MStarmans91.github.io/publication/vien-2023-faimi/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/vien-2023-faimi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FUTURE-AI: International consensus guideline for trustworthy and deployable artificial intelligence in healthcare</title>
+      <link>https://MStarmans91.github.io/publication/futureai/</link>
+      <pubDate>Tue, 26 Sep 2023 17:45:49 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/futureai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting survival after surgery for colorectal liver metastasis with deep learning</title>
+      <link>https://MStarmans91.github.io/publication/zhenpathomics-2023/</link>
+      <pubDate>Tue, 26 Sep 2023 17:45:48 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/zhenpathomics-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interactive segmentation of Soft-Tissue Tumors on MRI and CT</title>
+      <link>https://MStarmans91.github.io/publication/spaanderman-2023-mideepsegunpublished/</link>
+      <pubDate>Tue, 26 Sep 2023 17:45:47 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/spaanderman-2023-mideepsegunpublished/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-center External Validation of a Radiomics Model Differentiating Between ALT and Lipoma Using Automatic and Minimally Interactive Segmentation Methods</title>
+      <link>https://MStarmans91.github.io/publication/spaanderman-2023-lipounpublished/</link>
+      <pubDate>Tue, 26 Sep 2023 17:45:47 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/spaanderman-2023-lipounpublished/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radiology AI Deployment and Assessment Rubric (RADAR) for value-based AI in Radiology</title>
+      <link>https://MStarmans91.github.io/publication/boverhof-2023/</link>
+      <pubDate>Tue, 26 Sep 2023 17:45:46 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/boverhof-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bias and Fairness in Radiomics: A Comparative Analysis of Machine Learning Models on Four Oncology Datasets</title>
+      <link>https://MStarmans91.github.io/publication/natalia-2023-fairness/</link>
+      <pubDate>Tue, 26 Sep 2023 17:45:45 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/natalia-2023-fairness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Independent validation of CT radiomics models in colorectal liver metastases: predicting local tumour progression after ablation</title>
+      <link>https://MStarmans91.github.io/publication/reijd-2023-crlm/</link>
+      <pubDate>Tue, 26 Sep 2023 17:45:37 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/reijd-2023-crlm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated Assessment of T2-Weighted MRI to Differentiate Malignant and Benign Primary Solid Liver Lesions in Noncirrhotic Livers Usiong Radiomics</title>
+      <link>https://MStarmans91.github.io/publication/starmans-2023-blt/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/starmans-2023-blt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI and image analysis of liver metastases</title>
+      <link>https://MStarmans91.github.io/publication/starmans-lmrn-2023/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/starmans-lmrn-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data infrastructures for AI in medical imaging: a report on the experiences of five EU projects</title>
+      <link>https://MStarmans91.github.io/publication/ai-4-hiinfra-2023/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/ai-4-hiinfra-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zijn we dan artificieel intelligent met mammografie/MRI </title>
+      <link>https://MStarmans91.github.io/publication/starmansborstkanker-2023/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/starmansborstkanker-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EuCanImage: Towards a European cancer imaging platform for enhanced Artificial Intelligence in oncology</title>
+      <link>https://MStarmans91.github.io/publication/starmans-ecr-2023/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/starmans-ecr-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Comprehensive characterization of circulating tumor cells and cell-free DNA in patients with metastatic melanoma</title>
       <link>https://MStarmans91.github.io/publication/manoukunpublished/</link>
       <pubDate>Sat, 10 Dec 2022 13:56:38 +0000</pubDate>
       <guid>https://MStarmans91.github.io/publication/manoukunpublished/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EuCanImage data platform and catalogue for cancer imaging and non-imaging data</title>
+      <link>https://MStarmans91.github.io/publication/starmans-radio-val-2022/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/starmans-radio-val-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technical and organizational obstacles and solutions for a secure data platform in cancer imaging</title>
+      <link>https://MStarmans91.github.io/publication/starmans-eu-can-image-webinar-2022/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/starmans-eu-can-image-webinar-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Current status and future outlook on artificial intelligence in radiological imaging for liver metastases</title>
+      <link>https://MStarmans91.github.io/publication/starmans-lmrn-2022/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/starmans-lmrn-2022/</guid>
       <description></description>
     </item>
     
@@ -65,30 +193,6 @@
       <link>https://MStarmans91.github.io/publication/starmans-2022-gist/</link>
       <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://MStarmans91.github.io/publication/starmans-2022-gist/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Automatic segmentation of soft-tissue Tumors on MRI and CT</title>
-      <link>https://MStarmans91.github.io/publication/spaanderman-2022-dsg/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://MStarmans91.github.io/publication/spaanderman-2022-dsg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Automatic segmentation to distinguish between lipomas and well-differentiated liposarcomas using radiomics</title>
-      <link>https://MStarmans91.github.io/publication/spaanderman-2022-ph-d-day/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://MStarmans91.github.io/publication/spaanderman-2022-ph-d-day/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AUTOMATIC SEGMENTATION USING DEEP LEARNING TO DISTINGUISH BETWEEN 9 TYPES OF SOFT-TISSUE TUMORS WITH RADIOMICS</title>
-      <link>https://MStarmans91.github.io/publication/spaanderman-2022-ctos/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://MStarmans91.github.io/publication/spaanderman-2022-ctos/</guid>
       <description></description>
     </item>
     
@@ -481,6 +585,22 @@
       <link>https://MStarmans91.github.io/publication/worc/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://MStarmans91.github.io/publication/worc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Radiomics Approach for Colorectal Liver Metastases Survival Prediction</title>
+      <link>https://MStarmans91.github.io/publication/starmans-miccai-2017/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/starmans-miccai-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radiomics and liver tumors</title>
+      <link>https://MStarmans91.github.io/publication/starmansliver-2017/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/starmansliver-2017/</guid>
       <description></description>
     </item>
     

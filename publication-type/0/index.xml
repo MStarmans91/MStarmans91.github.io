@@ -5,12 +5,60 @@
     <link>https://MStarmans91.github.io/publication-type/0/</link>
       <atom:link href="https://MStarmans91.github.io/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
     <description>0</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://MStarmans91.github.io/media/icon_hu08ff99a11f940ac4761bcab7c4c5c317_13983_512x512_fill_lanczos_center_3.png</url>
       <title>0</title>
       <link>https://MStarmans91.github.io/publication-type/0/</link>
     </image>
+    
+    <item>
+      <title>AI and image analysis of liver metastases</title>
+      <link>https://MStarmans91.github.io/publication/starmans-lmrn-2023/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/starmans-lmrn-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zijn we dan artificieel intelligent met mammografie/MRI </title>
+      <link>https://MStarmans91.github.io/publication/starmansborstkanker-2023/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/starmansborstkanker-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EuCanImage: Towards a European cancer imaging platform for enhanced Artificial Intelligence in oncology</title>
+      <link>https://MStarmans91.github.io/publication/starmans-ecr-2023/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/starmans-ecr-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EuCanImage data platform and catalogue for cancer imaging and non-imaging data</title>
+      <link>https://MStarmans91.github.io/publication/starmans-radio-val-2022/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/starmans-radio-val-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technical and organizational obstacles and solutions for a secure data platform in cancer imaging</title>
+      <link>https://MStarmans91.github.io/publication/starmans-eu-can-image-webinar-2022/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/starmans-eu-can-image-webinar-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Current status and future outlook on artificial intelligence in radiological imaging for liver metastases</title>
+      <link>https://MStarmans91.github.io/publication/starmans-lmrn-2022/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/starmans-lmrn-2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Reproducible radiomics through automated machine learning validated on twelve clinical applications</title>
@@ -53,10 +101,26 @@
     </item>
     
     <item>
+      <title>A Radiomics Approach for Colorectal Liver Metastases Survival Prediction</title>
+      <link>https://MStarmans91.github.io/publication/starmans-miccai-2017/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/starmans-miccai-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Radiomics and liver tumors</title>
       <link>https://MStarmans91.github.io/conferences/starmansliver-2017/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
       <guid>https://MStarmans91.github.io/conferences/starmansliver-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radiomics and liver tumors</title>
+      <link>https://MStarmans91.github.io/publication/starmansliver-2017/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/starmansliver-2017/</guid>
       <description></description>
     </item>
     
