@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>paper | Martijn P.A. Starmans, PhD - Radiomics and AutoML</title>
+    <title>paper | Martijn P.A. Starmans, PhD - AI for Integrated Diagnostics (AIID)</title>
     <link>https://MStarmans91.github.io/tag/paper/</link>
       <atom:link href="https://MStarmans91.github.io/tag/paper/index.xml" rel="self" type="application/rss+xml" />
     <description>paper</description>
