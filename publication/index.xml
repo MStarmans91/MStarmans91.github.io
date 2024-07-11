@@ -1,16 +1,72 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Martijn P.A. Starmans, PhD - AI for Integrated Diagnostics (AIID)</title>
+    <title>Publications | Martijn P.A. Starmans, PhD - PI AI for Integrated Diagnostics (AIID)</title>
     <link>https://MStarmans91.github.io/publication/</link>
       <atom:link href="https://MStarmans91.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 11 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://MStarmans91.github.io/media/icon_hu08ff99a11f940ac4761bcab7c4c5c317_13983_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://MStarmans91.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Automated Assessment of T2-Weighted MRI to Differentiate Malignant and Benign Primary Solid Liver Lesions in Noncirrhotic Livers Usiong Radiomics</title>
+      <link>https://MStarmans91.github.io/publication/starmans-2024-blt/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/starmans-2024-blt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comprehensive characterization of circulating tumor cells and cell-free DNA in patients with metastatic melanoma</title>
+      <link>https://MStarmans91.github.io/publication/bos-2024-comprehensive/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/bos-2024-comprehensive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MAMA-MIA: A Large-Scale Multi-Center Breast Cancer DCE-MRI Benchmark Dataset with Expert Segmentations</title>
+      <link>https://MStarmans91.github.io/publication/lidiamammamiaunpublished/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/lidiamammamiaunpublished/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Minimally Interactive Segmentation of Soft-Tissue Tumors on CT and MRI using Deep Learning</title>
+      <link>https://MStarmans91.github.io/publication/spaanderman-2024-minimally/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/spaanderman-2024-minimally/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New implementation of data standards for AI research in precision oncology. Experience from EuCanImage</title>
+      <link>https://MStarmans91.github.io/publication/teresa-2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/teresa-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preoperative Classification of Peripheral Nerve Sheath Tumors on MRI Using Radiomics</title>
+      <link>https://MStarmans91.github.io/publication/jansma-2024-preoperative/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/jansma-2024-preoperative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radiology AI Deployment and Assessment Rubric (RADAR) to bring value-based AI into radiological practice</title>
+      <link>https://MStarmans91.github.io/publication/boverhof-2024-radar/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/boverhof-2024-radar/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Obtained an AINed Personal Fellowship Grant!</title>

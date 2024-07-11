@@ -1,16 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>3 | Martijn P.A. Starmans, PhD - AI for Integrated Diagnostics (AIID)</title>
+    <title>3 | Martijn P.A. Starmans, PhD - PI AI for Integrated Diagnostics (AIID)</title>
     <link>https://MStarmans91.github.io/publication-type/3/</link>
       <atom:link href="https://MStarmans91.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 26 Sep 2023 17:45:49 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://MStarmans91.github.io/media/icon_hu08ff99a11f940ac4761bcab7c4c5c317_13983_512x512_fill_lanczos_center_3.png</url>
       <title>3</title>
       <link>https://MStarmans91.github.io/publication-type/3/</link>
     </image>
+    
+    <item>
+      <title>Minimally Interactive Segmentation of Soft-Tissue Tumors on CT and MRI using Deep Learning</title>
+      <link>https://MStarmans91.github.io/publication/spaanderman-2024-minimally/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/spaanderman-2024-minimally/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New implementation of data standards for AI research in precision oncology. Experience from EuCanImage</title>
+      <link>https://MStarmans91.github.io/publication/teresa-2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/teresa-2024/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>FUTURE-AI: International consensus guideline for trustworthy and deployable artificial intelligence in healthcare</title>

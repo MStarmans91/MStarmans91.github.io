@@ -1,16 +1,72 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Conferences | Martijn P.A. Starmans, PhD - AI for Integrated Diagnostics (AIID)</title>
+    <title>Conferences | Martijn P.A. Starmans, PhD - PI AI for Integrated Diagnostics (AIID)</title>
     <link>https://MStarmans91.github.io/conferences/</link>
       <atom:link href="https://MStarmans91.github.io/conferences/index.xml" rel="self" type="application/rss+xml" />
     <description>Conferences</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://MStarmans91.github.io/media/icon_hu08ff99a11f940ac4761bcab7c4c5c317_13983_512x512_fill_lanczos_center_3.png</url>
       <title>Conferences</title>
       <link>https://MStarmans91.github.io/conferences/</link>
     </image>
+    
+    <item>
+      <title>AI and image analysis of liver metastases</title>
+      <link>https://MStarmans91.github.io/conferences/starmans-lmrn-2024/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/starmans-lmrn-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technical considerations for the design and construction of trustworthy AI in multi-country oncology imaging</title>
+      <link>https://MStarmans91.github.io/conferences/starmans-eacr-2024/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/starmans-eacr-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI In medical imaging for Soft Tissue and Bone Sarcoma</title>
+      <link>https://MStarmans91.github.io/conferences/starmans-dsg-2024/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/starmans-dsg-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radiology and pathology join forces through Artificial Intelligence for Integrated Diagnostics (AIID)</title>
+      <link>https://MStarmans91.github.io/conferences/starmans-emccr-024/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/starmans-emccr-024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radiology and pathology join forces through Artificial Intelligence for Integrated Diagnostics (AIID)</title>
+      <link>https://MStarmans91.github.io/conferences/starmans-tiim-2024/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/starmans-tiim-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prognostic and predictive value of total tumor volume in patients with colorectal liver metastases</title>
+      <link>https://MStarmans91.github.io/conferences/rn-1715/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/rn-1715/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Liver AI research at Erasmus MC</title>
+      <link>https://MStarmans91.github.io/conferences/starmans-rrai-2023/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/starmans-rrai-2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Does size matter? Response of melanoma brain metastases to immune checkpoint inhibitors</title>
