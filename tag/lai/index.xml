@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LAI | Martijn P.A. Starmans, PhD - PI AI for Integrated Diagnostics (AIID)</title>
+    <link>https://MStarmans91.github.io/tag/lai/</link>
+      <atom:link href="https://MStarmans91.github.io/tag/lai/index.xml" rel="self" type="application/rss+xml" />
+    <description>LAI</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://MStarmans91.github.io/media/icon_hu08ff99a11f940ac4761bcab7c4c5c317_13983_512x512_fill_lanczos_center_3.png</url>
+      <title>LAI</title>
+      <link>https://MStarmans91.github.io/tag/lai/</link>
+    </image>
+    
+    <item>
+      <title>NWO OTP Grant for Liver Artificial Intelligence (LAI) consortium</title>
+      <link>https://MStarmans91.github.io/publication/starmans-lai/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/starmans-lai/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

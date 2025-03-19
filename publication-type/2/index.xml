@@ -5,12 +5,44 @@
     <link>https://MStarmans91.github.io/publication-type/2/</link>
       <atom:link href="https://MStarmans91.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 15 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://MStarmans91.github.io/media/icon_hu08ff99a11f940ac4761bcab7c4c5c317_13983_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
       <link>https://MStarmans91.github.io/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>FUTURE-AI: International Consensus Guideline for Trustworthy and Deployable Artificial Intelligence in Healthcare</title>
+      <link>https://MStarmans91.github.io/publication/lekadir-2025-futureai/</link>
+      <pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/lekadir-2025-futureai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Size Matters: Early Progression of Melanoma Brain Metastases after Treatment with Immune Checkpoint Inhibitors</title>
+      <link>https://MStarmans91.github.io/publication/derks-2025-size-matters/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/derks-2025-size-matters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ESR Essentials: How to Get to Valuable Radiology AI: The Role of Early Health Technology Assessment—Practice Recommendations by the European Society of Medical Imaging Informatics</title>
+      <link>https://MStarmans91.github.io/publication/kemper-2024/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/kemper-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-center External Validation of an Automated Method Segmenting and Differentiating Atypical Lipomatous Tumors from Lipomas Using Radiomics and Deep-learning on MRI</title>
+      <link>https://MStarmans91.github.io/publication/spaanderman-2024-multi/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/spaanderman-2024-multi/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Automated Assessment of T2-Weighted MRI to Differentiate Malignant and Benign Primary Solid Liver Lesions in Noncirrhotic Livers Usiong Radiomics</title>
@@ -21,10 +53,34 @@
     </item>
     
     <item>
+      <title>Classifying Histopathological Growth Patterns for Resected Colorectal Liver Metastasis with a Deep Learning Analysis</title>
+      <link>https://MStarmans91.github.io/publication/hoppener-2024-classifying/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/hoppener-2024-classifying/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Comprehensive characterization of circulating tumor cells and cell-free DNA in patients with metastatic melanoma</title>
       <link>https://MStarmans91.github.io/publication/bos-2024-comprehensive/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://MStarmans91.github.io/publication/bos-2024-comprehensive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HTA183 A General Framework for Early Health Technology Assessment (eHTA) to Support the Development of New Radiology Artificial Intelligence (AI) Tools</title>
+      <link>https://MStarmans91.github.io/conferences/kemper-2024-ehta/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/kemper-2024-ehta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Independent Validation of CT Radiomics Models in Colorectal Liver Metastases: Predicting Local Tumour Progression after Ablation</title>
+      <link>https://MStarmans91.github.io/publication/van-der-reijd-2024-independent/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/van-der-reijd-2024-independent/</guid>
       <description></description>
     </item>
     
@@ -49,6 +105,22 @@
       <link>https://MStarmans91.github.io/conferences/rn-1715/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://MStarmans91.github.io/conferences/rn-1715/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prognostic and predictive value of total tumor volume in patients with colorectal liver metastases</title>
+      <link>https://MStarmans91.github.io/conferences/zeeuw-2024-abstractcairo/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/zeeuw-2024-abstractcairo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prognostic Value of Total Tumor Volume in Patients with Colorectal Liver Metastases: A Secondary Analysis of the Randomized CAIRO5 Trial with External Cohort Validation</title>
+      <link>https://MStarmans91.github.io/publication/michiel-zeeuw-2024-prognostic/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/michiel-zeeuw-2024-prognostic/</guid>
       <description></description>
     </item>
     

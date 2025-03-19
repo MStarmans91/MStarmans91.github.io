@@ -5,12 +5,92 @@
     <link>https://MStarmans91.github.io/tag/abstract/</link>
       <atom:link href="https://MStarmans91.github.io/tag/abstract/index.xml" rel="self" type="application/rss+xml" />
     <description>abstract</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://MStarmans91.github.io/media/icon_hu08ff99a11f940ac4761bcab7c4c5c317_13983_512x512_fill_lanczos_center_3.png</url>
       <title>abstract</title>
       <link>https://MStarmans91.github.io/tag/abstract/</link>
     </image>
+    
+    <item>
+      <title>AI in Radiological Imaging of Soft-Tissue and Bone Tumours: A Systematic Review Evaluating Against CLAIM and FUTURE-AI Guidelines</title>
+      <link>https://MStarmans91.github.io/conferences/saireview-2025-ecr/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/saireview-2025-ecr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Early health technology assessment for an artificial intelligence tool to detect incidental pulmonary embolisms on computed tomography</title>
+      <link>https://MStarmans91.github.io/conferences/kemper-2025-ehtaecr/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/kemper-2025-ehtaecr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Center External Validation of an Automated Method Segmenting and Differentiating Atypical Lipomatous Tumors from Lipomas Using Radiomics and Deep-Learning on MRI</title>
+      <link>https://MStarmans91.github.io/conferences/spaanderman-2025-ecr/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/spaanderman-2025-ecr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Liver Artificial Intelligence (LAI) Consortium: A Benchmark Dataset and Optimised Machine Learning Methods for MRI-based Diagnosis of Solid-appearing Liver Lesions</title>
+      <link>https://MStarmans91.github.io/conferences/hartmann-2025-laiesgar/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/hartmann-2025-laiesgar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI in Radiological Imaging of Soft-Tissue and Bone Tumours: A Systematic Review Evaluating Against CLAIM and FUTURE-AI Guidelines</title>
+      <link>https://MStarmans91.github.io/conferences/wan-2024-dsg/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/wan-2024-dsg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI in Radiological Imaging of Soft-Tissue and Bone Tumours: A Systematic Review Evaluating Against CLAIM and FUTURE-AI Guidelines</title>
+      <link>https://MStarmans91.github.io/conferences/wan-2024-emc-cancer-retreat/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/wan-2024-emc-cancer-retreat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated segmentation of desmoplastic histopathological growth patterns of colorectal liver metastases on whole-slide images using deep learning</title>
+      <link>https://MStarmans91.github.io/conferences/mike-2024-lmrn/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/mike-2024-lmrn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HTA183 A General Framework for Early Health Technology Assessment (eHTA) to Support the Development of New Radiology Artificial Intelligence (AI) Tools</title>
+      <link>https://MStarmans91.github.io/conferences/kemper-2024-ehta/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/kemper-2024-ehta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Center External Validation of an Automated Method Segmenting and Differentiating Atypical Lipomatous Tumors from Lipomas Using Radiomics and Deep-Learning on MRI</title>
+      <link>https://MStarmans91.github.io/conferences/spaanderman-2024-dsglipo/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/spaanderman-2024-dsglipo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Liver Artificial Intelligence (LAI) Consortium: A Benchmark Dataset and Optimised Machine Learning Methods for MRI-based Diagnosis of Solid-appearing Liver Lesions</title>
+      <link>https://MStarmans91.github.io/conferences/niemantsverdriet-2025-laiecr/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/niemantsverdriet-2025-laiecr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Does size matter? Response of melanoma brain metastases to immune checkpoint inhibitors</title>
@@ -53,7 +133,7 @@
     </item>
     
     <item>
-      <title>MULTI-CENTER EXTERNAL VALIDATION OF A RADIOMICS MODEL DIFFERENTIATING BETWEEN ALT AND LIPOMA USING AUTOMATIC AND MINIMALLY INTERACTIVE SEGMENTATION METHODS</title>
+      <title>Multi-Center External Validation of a Radiomics Model Differentiating Between ALT and Lipoma Using Automatic and Minimally Interactive Segmentation Methods</title>
       <link>https://MStarmans91.github.io/conferences/hakkesteegt-2023-ctos/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://MStarmans91.github.io/conferences/hakkesteegt-2023-ctos/</guid>
@@ -73,6 +153,14 @@
       <link>https://MStarmans91.github.io/conferences/zhen-2023-lmrn/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://MStarmans91.github.io/conferences/zhen-2023-lmrn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preoperative Classification of Peripheral Nerve Sheath Tumors on MRI Using Radiomics</title>
+      <link>https://MStarmans91.github.io/conferences/wan-2023-nvphbv/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/wan-2023-nvphbv/</guid>
       <description></description>
     </item>
     
@@ -294,9 +382,9 @@
     
     <item>
       <title>Fully automatic construction of optimal radiomics workflows</title>
-      <link>https://MStarmans91.github.io/publication/starmans-bme-2019/</link>
+      <link>https://MStarmans91.github.io/conferences/starmans-bme-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://MStarmans91.github.io/publication/starmans-bme-2019/</guid>
+      <guid>https://MStarmans91.github.io/conferences/starmans-bme-2019/</guid>
       <description></description>
     </item>
     

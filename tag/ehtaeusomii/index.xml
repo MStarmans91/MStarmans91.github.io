@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ehtaeusomii | Martijn P.A. Starmans, PhD - PI AI for Integrated Diagnostics (AIID)</title>
+    <link>https://MStarmans91.github.io/tag/ehtaeusomii/</link>
+      <atom:link href="https://MStarmans91.github.io/tag/ehtaeusomii/index.xml" rel="self" type="application/rss+xml" />
+    <description>ehtaeusomii</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://MStarmans91.github.io/media/icon_hu08ff99a11f940ac4761bcab7c4c5c317_13983_512x512_fill_lanczos_center_3.png</url>
+      <title>ehtaeusomii</title>
+      <link>https://MStarmans91.github.io/tag/ehtaeusomii/</link>
+    </image>
+    
+    <item>
+      <title>ESR Essentials: How to Get to Valuable Radiology AI: The Role of Early Health Technology Assessment—Practice Recommendations by the European Society of Medical Imaging Informatics</title>
+      <link>https://MStarmans91.github.io/publication/kemper-2024/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/kemper-2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

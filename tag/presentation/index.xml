@@ -21,6 +21,14 @@
     </item>
     
     <item>
+      <title>Model Optimization in Radiomics: Generalization and automation of radiomics across clinical applications through automated machine learning </title>
+      <link>https://MStarmans91.github.io/conferences/starmans-2024-ai-4-imagingworc/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/conferences/starmans-2024-ai-4-imagingworc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Technical considerations for the design and construction of trustworthy AI in multi-country oncology imaging</title>
       <link>https://MStarmans91.github.io/conferences/starmans-eacr-2024/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
@@ -62,49 +70,49 @@
     
     <item>
       <title>AI and image analysis of liver metastases</title>
-      <link>https://MStarmans91.github.io/publication/starmans-lmrn-2023/</link>
+      <link>https://MStarmans91.github.io/conferences/starmans-lmrn-2023/</link>
       <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://MStarmans91.github.io/publication/starmans-lmrn-2023/</guid>
+      <guid>https://MStarmans91.github.io/conferences/starmans-lmrn-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Zijn we dan artificieel intelligent met mammografie/MRI </title>
-      <link>https://MStarmans91.github.io/publication/starmansborstkanker-2023/</link>
+      <link>https://MStarmans91.github.io/conferences/starmansborstkanker-2023/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://MStarmans91.github.io/publication/starmansborstkanker-2023/</guid>
+      <guid>https://MStarmans91.github.io/conferences/starmansborstkanker-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>EuCanImage: Towards a European cancer imaging platform for enhanced Artificial Intelligence in oncology</title>
-      <link>https://MStarmans91.github.io/publication/starmans-ecr-2023/</link>
+      <link>https://MStarmans91.github.io/conferences/starmans-ecr-2023/</link>
       <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://MStarmans91.github.io/publication/starmans-ecr-2023/</guid>
+      <guid>https://MStarmans91.github.io/conferences/starmans-ecr-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>EuCanImage data platform and catalogue for cancer imaging and non-imaging data</title>
-      <link>https://MStarmans91.github.io/publication/starmans-radio-val-2022/</link>
+      <link>https://MStarmans91.github.io/conferences/starmans-radio-val-2022/</link>
       <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://MStarmans91.github.io/publication/starmans-radio-val-2022/</guid>
+      <guid>https://MStarmans91.github.io/conferences/starmans-radio-val-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Technical and organizational obstacles and solutions for a secure data platform in cancer imaging</title>
-      <link>https://MStarmans91.github.io/publication/starmans-eu-can-image-webinar-2022/</link>
+      <link>https://MStarmans91.github.io/conferences/starmans-eu-can-image-webinar-2022/</link>
       <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://MStarmans91.github.io/publication/starmans-eu-can-image-webinar-2022/</guid>
+      <guid>https://MStarmans91.github.io/conferences/starmans-eu-can-image-webinar-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Current status and future outlook on artificial intelligence in radiological imaging for liver metastases</title>
-      <link>https://MStarmans91.github.io/publication/starmans-lmrn-2022/</link>
+      <link>https://MStarmans91.github.io/conferences/starmans-lmrn-2022/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://MStarmans91.github.io/publication/starmans-lmrn-2022/</guid>
+      <guid>https://MStarmans91.github.io/conferences/starmans-lmrn-2022/</guid>
       <description></description>
     </item>
     
@@ -113,14 +121,6 @@
       <link>https://MStarmans91.github.io/conferences/starmans-euro-bio-imaging-2021/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://MStarmans91.github.io/conferences/starmans-euro-bio-imaging-2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reproducible radiomics through automated machine learning validated on twelve clinical applications</title>
-      <link>https://MStarmans91.github.io/publication/starmans-euro-bio-imaging-2021/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://MStarmans91.github.io/publication/starmans-euro-bio-imaging-2021/</guid>
       <description></description>
     </item>
     
@@ -134,25 +134,9 @@
     
     <item>
       <title>Multicentre studies for more robust radiomics signatures</title>
-      <link>https://MStarmans91.github.io/publication/starmans-ecr-2021/</link>
-      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://MStarmans91.github.io/publication/starmans-ecr-2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multicentre studies for more robust radiomics signatures</title>
       <link>https://MStarmans91.github.io/conferences/starmans-ecr-2020/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
       <guid>https://MStarmans91.github.io/conferences/starmans-ecr-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multicentre studies for more robust radiomics signatures</title>
-      <link>https://MStarmans91.github.io/publication/starmans-ecr-2020/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://MStarmans91.github.io/publication/starmans-ecr-2020/</guid>
       <description></description>
     </item>
     
@@ -221,14 +205,6 @@
     </item>
     
     <item>
-      <title>Fully automatic construction of optimal radiomics workflows</title>
-      <link>https://MStarmans91.github.io/conferences/starmans-bme-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://MStarmans91.github.io/conferences/starmans-bme-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Harmonizing radiomics among applications through adaptive workflow optimization</title>
       <link>https://MStarmans91.github.io/conferences/starmans-worc-eu-so-mii/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
@@ -245,26 +221,10 @@
     </item>
     
     <item>
-      <title>A Radiomics Approach for Colorectal Liver Metastases Survival Prediction</title>
-      <link>https://MStarmans91.github.io/publication/starmans-miccai-2017/</link>
-      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>https://MStarmans91.github.io/publication/starmans-miccai-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Radiomics and liver tumors</title>
       <link>https://MStarmans91.github.io/conferences/starmansliver-2017/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
       <guid>https://MStarmans91.github.io/conferences/starmansliver-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Radiomics and liver tumors</title>
-      <link>https://MStarmans91.github.io/publication/starmansliver-2017/</link>
-      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>https://MStarmans91.github.io/publication/starmansliver-2017/</guid>
       <description></description>
     </item>
     
