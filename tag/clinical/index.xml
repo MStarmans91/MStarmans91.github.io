@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Clinical | Martijn P.A. Starmans, PhD - PI AI for Integrated Diagnostics (AIID)</title>
+    <link>https://MStarmans91.github.io/tag/clinical/</link>
+      <atom:link href="https://MStarmans91.github.io/tag/clinical/index.xml" rel="self" type="application/rss+xml" />
+    <description>Clinical</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 02 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://MStarmans91.github.io/media/icon_hu08ff99a11f940ac4761bcab7c4c5c317_13983_512x512_fill_lanczos_center_3.png</url>
+      <title>Clinical</title>
+      <link>https://MStarmans91.github.io/tag/clinical/</link>
+    </image>
+    
+    <item>
+      <title>AI-Based Phenotyping of Soft Tissue Tumors from Histopathology Images</title>
+      <link>https://MStarmans91.github.io/project/saipathomics/</link>
+      <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/project/saipathomics/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Background&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Soft tissue tumors are a heterogeneous group of mesenchymal neoplasms that vary widely in morphology, behavior, and clinical outcome. Accurate phenotyping from histopathology is essential for diagnosis and treatment but remains challenging due to their rarity and diversity. Moreover, current AI models in digital pathology are often trained on narrow disease-specific datasets, limiting their generalizability. There is growing interest in building large foundational models for computational pathology that can capture the spectrum of tumor morphology and be fine-tuned for downstream tasks such as grading, prognosis, or mutation prediction. This project aligns with that vision by focusing on phenotyping based on routine H&amp;amp;E-stained slides.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Aim&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The aim of this project is to contribute to the development of a deep learning model for broad phenotyping of soft tissue tumors. The student will work with high-resolution whole slide images, apply or adapt neural architectures for patch-level and slide-level analysis, and experiment with representation learning techniques. Depending on interest, the focus can be narrowed to a subtype (e.g., liposarcomas) or extended to multi-class classification and clustering of phenotypic patterns. The resulting model will form part of a larger framework that can later be fine-tuned for specific clinical outcomes, such as prognosis prediction or therapy response.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Related research:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.1016/j.jpi.2024.100368&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1016/j.jpi.2024.100368&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.1016/j.ajpath.2023.03.012&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1016/j.ajpath.2023.03.012&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Supervisors&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Karthik Prathaban&lt;/li&gt;
+&lt;li&gt;Farhan Akram&lt;/li&gt;
+&lt;li&gt;Martijn Starmans&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;Feel free to mail me if you are interested in this project or want more information!&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>From Image to Insight; Can Vision Language Models see like Radiologists?</title>
+      <link>https://MStarmans91.github.io/project/laichatgpt/</link>
+      <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/project/laichatgpt/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Background&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Diagnosing liver lesions using multiparametric MRI requires detecting complex, often subtle features - such as washout, fat content, capsular enhancement, and iron deposition - However, these features can be subtle and challenging to detect, often requiring the expertise of experienced radiologists, which limits the scalability of supervised AI approaches.&lt;/p&gt;
+&lt;p&gt;With the rise of vision-language models (VLMs) like GPT-4V and DeepSeek-VL, a key question is whether such models can reliably identify and describe these features across diverse MRI sequences. This project explores the diagnostic potential of VLMs as assistive tools, with a particular focus on benchmarking their ability to &amp;ldquo;see&amp;rdquo; and reason over relevant imaging features in comparison to expert radiologist interpretations and pathology-confirmed diagnoses.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Aim&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The primary goal of this projectis to systematically evaluate how well these models extract and describe clinically meaningful features from annotated MRI data, and to what extent their predictions aligns with real-world diagnostic outcomes. Depending on results and interest, the project may also explore fine-tuning existing models to improve domain-specific performance, or - if performance proves reliable - developing a lightweight graphical interface to make these models more accessible and interpretable in a clinical context. This research is part of the Liver Artificial Intelligene - Consortium, a collaborative initiative focused on advancing AI models in liver imaging, bringing together interdisciplinary expertise to unlock new diagnostic possibilities.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Related research:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.1016/j.jpi.2024.100368&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1016/j.jpi.2024.100368&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.1016/j.ajpath.2023.03.012&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1016/j.ajpath.2023.03.012&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Supervisors&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Frederik Hartmann&lt;/li&gt;
+&lt;li&gt;Ruben Niemantsverdriet&lt;/li&gt;
+&lt;li&gt;Maarten Thomeer&lt;/li&gt;
+&lt;li&gt;Stefan Klein&lt;/li&gt;
+&lt;li&gt;Martijn Starmans&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;Feel free to mail me if you are interested in this project or want more information!&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Predicting CTNNB1 S45F Mutation in Desmoid Tumors from H&amp;E-Stained Histopathology Images</title>
+      <link>https://MStarmans91.github.io/project/desmoidpathomics/</link>
+      <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/project/desmoidpathomics/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Background&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Desmoid tumors are rare soft tissue neoplasms that exhibit local invasiveness without metastatic potential. A significant subset of sporadic desmoid tumors harbors activating mutations in the CTNNB1 gene, particularly the S45F mutation, which is associated with higher recurrence risk and poorer response to conservative therapies. Detecting this mutation currently requires molecular assays, which are costly and not always available in resource-limited settings. This project explores the potential of using deep learning to predict S45F mutation status directly from histology images, enabling a scalable screening alternative.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Aim&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;he aim of this project is to develop and validate a deep learning model that predicts the presence of the CTNNB1 S45F mutation in desmoid tumors from H&amp;amp;E-stained whole slide images. The model will be trained using annotated data with known mutation status and will explore image-based features that correlate with underlying molecular changes. The project will involve data preprocessing, model development (e.g., using convolutional neural networks or vision transformers), and evaluation of predictive performance. This work has the potential to improve personalized decision-making in desmoid tumor management.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Related research:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.3389/fonc.2023.1206800&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.3389/fonc.2023.1206800&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.1016/j.ejca.2024.114270&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1016/j.ejca.2024.114270&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Supervisors&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Karthik Prathaban&lt;/li&gt;
+&lt;li&gt;Farhan Akram&lt;/li&gt;
+&lt;li&gt;Martijn Starmans&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;Feel free to mail me if you are interested in this project or want more information!&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

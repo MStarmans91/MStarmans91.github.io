@@ -5,12 +5,20 @@
     <link>https://MStarmans91.github.io/publication/</link>
       <atom:link href="https://MStarmans91.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 14 Mar 2025 07:29:04 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://MStarmans91.github.io/media/icon_hu08ff99a11f940ac4761bcab7c4c5c317_13983_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://MStarmans91.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>AI in Radiological Imaging of Soft-Tissue and Bone Tumours: A Systematic Review Evaluating Against CLAIM and FUTURE-AI Guidelines</title>
+      <link>https://MStarmans91.github.io/publication/spaanderman-2025/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/spaanderman-2025/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Bias and fairness in radiomics: A comparative analysis of machine learning models on four oncology datasets</title>
@@ -25,6 +33,14 @@
       <link>https://MStarmans91.github.io/publication/witjes-meg/</link>
       <pubDate>Fri, 14 Mar 2025 07:29:00 +0000</pubDate>
       <guid>https://MStarmans91.github.io/publication/witjes-meg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Large-Scale Multicenter Breast Cancer DCE-MRI Benchmark Dataset with Expert Segmentations</title>
+      <link>https://MStarmans91.github.io/publication/garrucho-2025/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://MStarmans91.github.io/publication/garrucho-2025/</guid>
       <description></description>
     </item>
     
